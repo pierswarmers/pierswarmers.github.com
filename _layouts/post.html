@@ -1,12 +1,9 @@
 ---
 layout: default
+blog: true
 ---
 
 {% assign post = page %}
-
-{% if content == nil %}
-{% assign content = post.content %}
-{% endif %}
 
 <article itemscope itemtype="http://schema.org/BlogPosting" class="post">
     <header>
