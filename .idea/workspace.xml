@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/post-article.html" afterPath="$PROJECT_DIR$/_includes/post-article.html" />
     </list>
     <ignored path="pierswarmers.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -12,6 +12,7 @@
     <file path="/default.html" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358482545264" ignored="false" />
     <file path="/index.html" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358482082084" ignored="false" />
     <file path="/ui.totop.css" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358482346101" ignored="false" />
+    <file path="/post-article.html" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358483043344" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,10 +38,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post-article.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="post-article.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/post-article.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="0" selection-start="72" selection-end="72" vertical-scroll-proportion="-2.5714285">
+            <state line="15" column="0" selection-start="492" selection-end="492" vertical-scroll-proportion="0.37460977">
               <folding />
             </state>
           </provider>
@@ -64,10 +65,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="default.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="25" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.2658228">
+            <state line="51" column="7" selection-start="1545" selection-end="1545" vertical-scroll-proportion="-20.142857">
               <folding />
             </state>
           </provider>
@@ -146,6 +147,7 @@
         <option value="$PROJECT_DIR$/stylesheets/ui.totop.css" />
         <option value="$PROJECT_DIR$/javascripts/app.js" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
+        <option value="$PROJECT_DIR$/_includes/post-article.html" />
       </list>
     </option>
   </component>
@@ -458,13 +460,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/post-article.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="0" selection-start="72" selection-end="72" vertical-scroll-proportion="-2.5714285">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="50" selection-start="68" selection-end="99" vertical-scroll-proportion="-3.4285715">
@@ -511,7 +506,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="25" selection-start="1045" selection-end="1045" vertical-scroll-proportion="0.2658228">
+        <state line="51" column="7" selection-start="1545" selection-end="1545" vertical-scroll-proportion="-20.142857">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/post-article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="492" selection-end="492" vertical-scroll-proportion="0.37460977">
           <folding />
         </state>
       </provider>
