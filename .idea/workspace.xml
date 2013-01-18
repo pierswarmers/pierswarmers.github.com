@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-01-18-online-and-cooking.md" afterPath="$PROJECT_DIR$/_posts/2013-01-18-online-and-cooking.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
     </list>
     <ignored path="pierswarmers.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -33,7 +34,7 @@
       <file leaf-file-name="post.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="0" selection-start="1023" selection-end="1023" vertical-scroll-proportion="-27.428572">
+            <state line="3" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="-2.5714285">
               <folding />
             </state>
           </provider>
@@ -42,16 +43,7 @@
       <file leaf-file-name="2013-01-18-online-and-cooking.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2013-01-18-online-and-cooking.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="20" selection-start="127" selection-end="127" vertical-scroll-proportion="0.09706774">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="28" selection-start="771" selection-end="771" vertical-scroll-proportion="-24.0">
+            <state line="7" column="4" selection-start="138" selection-end="138" vertical-scroll-proportion="0.16986856">
               <folding />
             </state>
           </provider>
@@ -60,7 +52,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="137" selection-end="137" vertical-scroll-proportion="-5.142857">
+            <state line="4" column="24" selection-start="106" selection-end="106" vertical-scroll-proportion="-3.4285715">
               <folding />
             </state>
           </provider>
@@ -225,6 +217,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="_posts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pierswarmers.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pierswarmers.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_layouts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -405,13 +411,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="137" selection-end="137" vertical-scroll-proportion="-5.142857">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/ui.totop.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="28" selection-start="520" selection-end="520" vertical-scroll-proportion="0.0">
@@ -435,21 +434,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="28" selection-start="771" selection-end="771" vertical-scroll-proportion="-24.0">
+        <state line="28" column="28" selection-start="771" selection-end="771" vertical-scroll-proportion="-0.4050633">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="0" selection-start="1023" selection-end="1023" vertical-scroll-proportion="-27.428572">
+        <state line="3" column="0" selection-start="24" selection-end="24" vertical-scroll-proportion="-2.5714285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="24" selection-start="106" selection-end="106" vertical-scroll-proportion="-3.4285715">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2013-01-18-online-and-cooking.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="20" selection-start="127" selection-end="127" vertical-scroll-proportion="0.09706774">
+        <state line="7" column="4" selection-start="138" selection-end="138" vertical-scroll-proportion="0.16986856">
           <folding />
         </state>
       </provider>
