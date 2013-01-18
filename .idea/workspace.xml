@@ -2,14 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
     </list>
     <ignored path="pierswarmers.com.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358472271827" ignored="false" />
     <file path="/_config.yml" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358473488717" ignored="false" />
     <file path="/2012-01-28-my-very-first-post.md" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358473512297" ignored="false" />
-    <file path="/default.html" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358482545264" ignored="false" />
+    <file path="/default.html" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358483273072" ignored="false" />
     <file path="/index.html" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358482082084" ignored="false" />
     <file path="/ui.totop.css" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358482346101" ignored="false" />
     <file path="/post-article.html" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358483043344" ignored="false" />
@@ -29,28 +29,28 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="menulist.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/menulist.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="0" selection-end="120" vertical-scroll-proportion="-4.285714">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="post-article.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/post-article.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="10" selection-start="491" selection-end="491" vertical-scroll-proportion="-12.0">
+            <state line="7" column="11" selection-start="205" selection-end="205" vertical-scroll-proportion="-6.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="post.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="post.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="49" selection-end="49" vertical-scroll-proportion="0.09989594">
+            <state line="4" column="0" selection-start="49" selection-end="49" vertical-scroll-proportion="-3.4285715">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2012-01-28-my-very-first-post.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2012-01-28-my-very-first-post.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="3" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -65,10 +65,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="default.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="7" selection-start="1545" selection-end="1545" vertical-scroll-proportion="-20.142857">
+            <state line="28" column="49" selection-start="792" selection-end="792" vertical-scroll-proportion="0.70886075">
               <folding />
             </state>
           </provider>
@@ -146,9 +146,9 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/stylesheets/ui.totop.css" />
         <option value="$PROJECT_DIR$/javascripts/app.js" />
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_includes/post-article.html" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
       </list>
     </option>
   </component>
@@ -440,13 +440,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2012-01-28-my-very-first-post.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="3" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/menulist.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="5" column="0" selection-start="0" selection-end="120" vertical-scroll-proportion="-4.285714">
@@ -498,23 +491,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="7" selection-start="1545" selection-end="1545" vertical-scroll-proportion="-20.142857">
+        <state line="4" column="0" selection-start="49" selection-end="49" vertical-scroll-proportion="-3.4285715">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2012-01-28-my-very-first-post.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="3" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/post-article.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="10" selection-start="491" selection-end="491" vertical-scroll-proportion="-12.0">
+        <state line="7" column="11" selection-start="205" selection-end="205" vertical-scroll-proportion="-6.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="49" selection-end="49" vertical-scroll-proportion="0.09989594">
+        <state line="28" column="49" selection-start="792" selection-end="792" vertical-scroll-proportion="0.70886075">
           <folding />
         </state>
       </provider>
