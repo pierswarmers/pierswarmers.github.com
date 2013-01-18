@@ -36,7 +36,7 @@
       <file leaf-file-name="post.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="84" selection-start="667" selection-end="667" vertical-scroll-proportion="1.04">
+            <state line="17" column="13" selection-start="504" selection-end="504" vertical-scroll-proportion="0.28">
               <folding />
             </state>
           </provider>
@@ -55,15 +55,6 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state line="12" column="90" selection-start="310" selection-end="324" vertical-scroll-proportion="-10.285714">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_config.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="166" selection-end="166" vertical-scroll-proportion="-11.076923">
               <folding />
             </state>
           </provider>
@@ -448,13 +439,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="90" selection-start="310" selection-end="324" vertical-scroll-proportion="-10.285714">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tag.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="16" column="0" selection-start="312" selection-end="312" vertical-scroll-proportion="-13.714286">
@@ -469,13 +453,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="166" selection-end="166" vertical-scroll-proportion="-11.076923">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2013-01-18-hello-world.md">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
@@ -483,9 +460,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="166" selection-end="166" vertical-scroll-proportion="0.45859873">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="90" selection-start="310" selection-end="324" vertical-scroll-proportion="-10.285714">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="84" selection-start="667" selection-end="667" vertical-scroll-proportion="1.04">
+        <state line="17" column="13" selection-start="504" selection-end="504" vertical-scroll-proportion="0.28">
           <folding />
         </state>
       </provider>
