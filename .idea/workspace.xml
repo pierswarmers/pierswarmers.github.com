@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/javascripts/app.js" afterPath="$PROJECT_DIR$/javascripts/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/ui.totop.css" afterPath="$PROJECT_DIR$/stylesheets/ui.totop.css" />
     </list>
     <ignored path="pierswarmers.com.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358472271827" ignored="false" />
     <file path="/_config.yml" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358473488717" ignored="false" />
     <file path="/2012-01-28-my-very-first-post.md" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358473512297" ignored="false" />
-    <file path="/default.html" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358481899511" ignored="false" />
+    <file path="/default.html" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358482545264" ignored="false" />
     <file path="/index.html" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358482082084" ignored="false" />
     <file path="/ui.totop.css" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358482346101" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -69,7 +67,7 @@
       <file leaf-file-name="default.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="11" selection-start="1528" selection-end="1528" vertical-scroll-proportion="0.39240506">
+            <state line="36" column="43" selection-start="938" selection-end="938" vertical-scroll-proportion="0.21518987">
               <folding />
             </state>
           </provider>
@@ -513,7 +511,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="11" selection-start="1528" selection-end="1528" vertical-scroll-proportion="0.39240506">
+        <state line="36" column="43" selection-start="938" selection-end="938" vertical-scroll-proportion="0.21518987">
           <folding />
         </state>
       </provider>
