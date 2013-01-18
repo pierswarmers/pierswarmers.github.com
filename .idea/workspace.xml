@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/menulist.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/post-article.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_includes/post-list-item.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2012-01-29-my-second-post.md" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/_posts/2012-01-28-my-very-first-post.md" afterPath="$PROJECT_DIR$/_posts/2013-01-18-online-and-cooking.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-01-18-online-and-cooking.md" afterPath="$PROJECT_DIR$/_posts/2013-01-18-online-and-cooking.md" />
     </list>
     <ignored path="pierswarmers.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,7 +42,7 @@
       <file leaf-file-name="2013-01-18-online-and-cooking.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2013-01-18-online-and-cooking.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="38" selection-start="203" selection-end="203" vertical-scroll-proportion="0.2669363">
+            <state line="4" column="20" selection-start="127" selection-end="127" vertical-scroll-proportion="0.09706774">
               <folding />
             </state>
           </provider>
@@ -454,7 +449,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2013-01-18-online-and-cooking.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="38" selection-start="203" selection-end="203" vertical-scroll-proportion="0.2669363">
+        <state line="4" column="20" selection-start="127" selection-end="127" vertical-scroll-proportion="0.09706774">
           <folding />
         </state>
       </provider>
