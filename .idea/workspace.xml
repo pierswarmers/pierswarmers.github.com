@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-01-18-online-and-cooking.md" afterPath="$PROJECT_DIR$/_posts/2013-01-18-online-and-cooking.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="pierswarmers.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -14,7 +14,7 @@
     <file path="/index.html" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358482082084" ignored="false" />
     <file path="/ui.totop.css" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358482346101" ignored="false" />
     <file path="/post-article.html" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358483043344" ignored="false" />
-    <file path="/2013-01-18-online-and-cooking.md" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358483489323" ignored="false" />
+    <file path="/2013-01-18-online-and-cooking.md" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358489804026" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +43,7 @@
       <file leaf-file-name="2013-01-18-online-and-cooking.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2013-01-18-online-and-cooking.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="4" selection-start="138" selection-end="138" vertical-scroll-proportion="0.16986856">
+            <state line="5" column="3" selection-start="134" selection-end="134" vertical-scroll-proportion="0.12133468">
               <folding />
             </state>
           </provider>
@@ -425,13 +425,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javascripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="14" selection-start="876" selection-end="876" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="28" column="28" selection-start="771" selection-end="771" vertical-scroll-proportion="-0.4050633">
@@ -453,9 +446,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/javascripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="14" selection-start="876" selection-end="876" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2013-01-18-online-and-cooking.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="4" selection-start="138" selection-end="138" vertical-scroll-proportion="0.16986856">
+        <state line="5" column="3" selection-start="134" selection-end="134" vertical-scroll-proportion="0.12133468">
           <folding />
         </state>
       </provider>
