@@ -1,9 +1,12 @@
 ---
 layout: post
-title: "Online and Cooking"
-description: "New site a blog up and running on Github Pages"
-author: "Piers Warmers"
+title: "My very first post"
+description: "lip lap"
+tweet-text: "Read #my first blog post"
+author: me
 tags:
-- Test
+- foo
+categories:
+- "foo things"
 ---
 Test
