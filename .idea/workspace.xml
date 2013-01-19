@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about.html" afterPath="$PROJECT_DIR$/_site/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/stylesheets/app.css" afterPath="$PROJECT_DIR$/_site/stylesheets/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/app.css" afterPath="$PROJECT_DIR$/stylesheets/app.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
@@ -30,6 +28,7 @@
     <file path="$PROJECT_DIR$/_site/stylesheets/foundation.min.css" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358571666639" ignored="false" />
     <file path="/atom.xml" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358577066348" ignored="false" />
     <file path="/rss.xml" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358577368676" ignored="false" />
+    <file path="$PROJECT_DIR$/_site/rss.xml" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358590031402" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,10 +45,10 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="default.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="default.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="13" selection-start="869" selection-end="869" vertical-scroll-proportion="-9.428572">
+            <state line="20" column="13" selection-start="869" selection-end="869" vertical-scroll-proportion="0.35869566">
               <folding />
             </state>
           </provider>
@@ -100,10 +99,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="app.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stylesheets/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="813" selection-end="813" vertical-scroll-proportion="0.34031415">
+            <state line="18" column="0" selection-start="813" selection-end="813" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -136,8 +135,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/atom.xml" />
         <option value="$PROJECT_DIR$/rss.xml" />
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/stylesheets/app.css" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
       </list>
     </option>
   </component>
@@ -480,16 +479,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+    <entry file="file://$PROJECT_DIR$/stylesheets/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="13" selection-start="869" selection-end="869" vertical-scroll-proportion="-9.428572">
+        <state line="18" column="0" selection-start="813" selection-end="813" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/app.css">
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="813" selection-end="813" vertical-scroll-proportion="0.34031415">
+        <state line="20" column="13" selection-start="869" selection-end="869" vertical-scroll-proportion="0.35869566">
           <folding />
         </state>
       </provider>
