@@ -15,21 +15,22 @@
     <link href="/atom.xml" rel="alternate" title="Piers Warmers" type="application/atom+xml" />
 </head>
 <body>
-
-<div class="row">
-    <div id="side" class="four columns">
-        <header>
-            <h2><a href="/">Piers Warmers</a></h2>
-        </header>
-        <ul id="links">
-            <li><a href="https://github.com/pierswarmers"><i class="icon-github-alt"></i><span> @pierswarmers</span></a></li>
-            <li><a href="https://twitter.com/warmers"><i class="icon-twitter"></i><span> @warmers</span></a></li>
-            <li><a href="/rss.xml"><i class="icon-rss"></i><span> RSS</span></a></li>
-        </ul>
-    </div>
-    <div id="main" class="eight columns">
-        <div id="main" role="main">
-            <article>
+<div id="outer-holder">
+    <i id="bg" class="icon-cogs"></i>
+    <div class="row">
+        <div id="side" class="four columns">
+            <header>
+                <h2><a href="/">Piers Warmers</a></h2>
+            </header>
+            <ul id="links">
+                <li><a href="https://github.com/pierswarmers"><i class="icon-github-alt"></i><span> @pierswarmers</span></a></li>
+                <li><a href="https://twitter.com/warmers"><i class="icon-twitter"></i><span> @warmers</span></a></li>
+                <li><a href="/rss.xml"><i class="icon-rss"></i><span> RSS</span></a></li>
+            </ul>
+        </div>
+        <div id="main" class="eight columns">
+            <div id="main" role="main">
+                <article>
 	<ul class="posts-list hfeed">
 	
 	</ul>
@@ -37,53 +38,53 @@
 
 
 
+            </div>
         </div>
     </div>
-</div>
 
-<script src="/javascripts/foundation.min.js"></script>
-<script src="/javascripts/easing.js" type="text/javascript"></script>
-<script src="/javascripts/jquery.ui.totop.js" type="text/javascript"></script>
-<script src="javascripts/app.js"></script>
-<script type="text/javascript">
-    $(document).ready(function() {
-        $().UItoTop({ easingType: 'easeOutQuart' });
-        $("h2, h3, h4, h5, h6").each(function () {
-            var _id = $(this).attr('id');
+    <script src="/javascripts/foundation.min.js"></script>
+    <script src="/javascripts/easing.js" type="text/javascript"></script>
+    <script src="/javascripts/jquery.ui.totop.js" type="text/javascript"></script>
+    <script src="javascripts/app.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $().UItoTop({ easingType: 'easeOutQuart' });
+            $("h2, h3, h4, h5, h6").each(function () {
+                var _id = $(this).attr('id');
 
-            if (undefined !== _id) {
-                _anchor = '<a href="#' + _id + '" class="anchor_link">¶</a>';
-                $(this).append(_anchor);
-            }
+                if (undefined !== _id) {
+                    _anchor = '<a href="#' + _id + '" class="anchor_link">¶</a>';
+                    $(this).append(_anchor);
+                }
+            });
         });
-    });
-</script>
+    </script>
 
-<script type="text/javascript">
-    (function() {
-        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-        po.src = 'https://apis.google.com/js/plusone.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-    })();
-</script>
+    <script type="text/javascript">
+        (function() {
+            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+            po.src = 'https://apis.google.com/js/plusone.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+        })();
+    </script>
 
-<script type="text/javascript">
-    !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-</script>
+    <script type="text/javascript">
+        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+    </script>
 
-<script type="text/javascript">
+    <script type="text/javascript">
 
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-87142-7']);
-    _gaq.push(['_trackPageview']);
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-87142-7']);
+        _gaq.push(['_trackPageview']);
 
-    (function() {
-        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
 
-</script>
-
+    </script>
+</div>
 </body>
 </html>
