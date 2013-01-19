@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Piers Warmers</title>
+		<description>Thoughts and writings on PHP, coding and Symfony</description>
+		<link></link>
+		<atom:link href="/rss.xml" rel="self" type="application/rss+xml" />
+		
+			
+			<item>
+				<title>Hello World</title>
+				<description>&lt;p&gt;Finally on &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. This theme is using &lt;a href=&quot;http://foundation.zurb.com/&quot;&gt;Foundation&lt;/a&gt;
+and &lt;a href=&quot;http://fortawesome.github.com/Font-Awesome/#icons-social&quot;&gt;Font Awesome&lt;/a&gt; and you are more than welcome
+to &lt;a href=&quot;https://github.com/pierswarmers/pierswarmers.github.com&quot;&gt;use it&lt;/a&gt; as a base for your own.&lt;/p&gt;
+
+</description>
+				<pubDate>Fri, 18 Jan 2013 00:00:00 +1100</pubDate>
+				<link>/2013/01/18/hello-world</link>
+				<guid isPermaLink="true">/2013/01/18/hello-world</guid>
+			</item>
+			
+		
+	</channel>
+</rss>

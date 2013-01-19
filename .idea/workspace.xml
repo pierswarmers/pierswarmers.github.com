@@ -2,14 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/atom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rss.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/about.html" afterPath="$PROJECT_DIR$/_site/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/01/18/hello-world/index.html" afterPath="$PROJECT_DIR$/_site/2013/01/18/hello-world/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/archive/index.html" afterPath="$PROJECT_DIR$/_site/archive/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/tag.html" afterPath="$PROJECT_DIR$/_site/tag.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="pierswarmers.com.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358490491812" ignored="false" />
     <file path="/_config.yml" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358562407026" ignored="false" />
     <file path="/2012-01-28-my-very-first-post.md" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358473512297" ignored="false" />
-    <file path="/default.html" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358574704584" ignored="false" />
+    <file path="/default.html" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358577547378" ignored="false" />
     <file path="/index.html" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358576192005" ignored="false" />
     <file path="/ui.totop.css" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358482346101" ignored="false" />
     <file path="/post-article.html" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358483043344" ignored="false" />
@@ -20,6 +28,7 @@
     <file path="/app.css" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358576019754" ignored="false" />
     <file path="$PROJECT_DIR$/_site/stylesheets/foundation.min.css" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358571666639" ignored="false" />
     <file path="/atom.xml" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358577066348" ignored="false" />
+    <file path="/rss.xml" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358577368676" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +48,7 @@
       <file leaf-file-name="default.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="82" selection-start="1117" selection-end="1117" vertical-scroll-proportion="-9.592592">
+            <state line="28" column="69" selection-start="1314" selection-end="1314" vertical-scroll-proportion="-12.571428">
               <folding />
             </state>
           </provider>
@@ -54,10 +63,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="atom.xml" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="atom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/atom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="30" selection-start="636" selection-end="636" vertical-scroll-proportion="0.6486486">
+            <state line="21" column="30" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rss.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rss.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="69" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -81,10 +99,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="app.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stylesheets/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="25" selection-start="1106" selection-end="1106" vertical-scroll-proportion="0.0">
+            <state line="26" column="25" selection-start="1106" selection-end="1106" vertical-scroll-proportion="0.21465969">
               <folding />
             </state>
           </provider>
@@ -108,17 +126,17 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/stylesheets/ui.totop.css" />
         <option value="$PROJECT_DIR$/javascripts/app.js" />
         <option value="$PROJECT_DIR$/_includes/post-article.html" />
         <option value="$PROJECT_DIR$/_posts/2013-01-18-online-and-cooking.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/_layouts/post.html" />
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_posts/2013-01-18-hello-world.md" />
         <option value="$PROJECT_DIR$/stylesheets/app.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/atom.xml" />
+        <option value="$PROJECT_DIR$/rss.xml" />
+        <option value="$PROJECT_DIR$/_layouts/default.html" />
       </list>
     </option>
   </component>
@@ -398,13 +416,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/stylesheets/ui.totop.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="248" selection-end="248" vertical-scroll-proportion="0.14560162">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascripts/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="14" selection-start="876" selection-end="876" vertical-scroll-proportion="0.03088803">
@@ -447,16 +458,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/app.css">
+    <entry file="file://$PROJECT_DIR$/rss.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="25" selection-start="1106" selection-end="1106" vertical-scroll-proportion="0.0">
+        <state line="7" column="69" selection-start="226" selection-end="226" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+    <entry file="file://$PROJECT_DIR$/atom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="82" selection-start="1117" selection-end="1117" vertical-scroll-proportion="-9.592592">
+        <state line="21" column="30" selection-start="636" selection-end="636" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -468,9 +479,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/atom.xml">
+    <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="30" selection-start="636" selection-end="636" vertical-scroll-proportion="0.6486486">
+        <state line="28" column="69" selection-start="1314" selection-end="1314" vertical-scroll-proportion="-12.571428">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="25" selection-start="1106" selection-end="1106" vertical-scroll-proportion="0.21465969">
           <folding />
         </state>
       </provider>
