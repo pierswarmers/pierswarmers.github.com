@@ -1,16 +1,13 @@
 ---
 layout: default
-title: Piers Warmers
-my_github: https://github.com/willdurand
-description: Welcome to my personal site and blog.
+title: Sirupsen and his codeabouts
 ---
 
-<h2 class="title">Blog Posts</h2>
-
-<ul class="posts">
+<ul id="posts" class="twelve columns offset-by-four">
     {% for post in site.posts %}
     <li>
-        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time> <span class="separator">&raquo;</span> <a href="{{ post.url }}">{{ post.title }}</a>
+        <a class="nine columns" href="{{ post.url }}">{{ post.title }}</a>
+        <span class="two columns">{{ post.date | date: "%b %Y" }}</span>
     </li>
     {% endfor %}
 </ul>
