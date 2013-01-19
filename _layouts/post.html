@@ -14,11 +14,15 @@ blog: true
         <h1 itemprop="name" class="entry-title">
             <a href="{{ site.url }}{{ post.url }}" rel="bookmark">{{ post.title }}</a>
         </h1>
-        <abbr class="published updated" title="{{ post.date | date_to_xmlschema }}">
-            {{ post.date | date_to_string }}
-        </abbr>
+        <p>
+            <abbr class="published updated" title="{{ post.date | date_to_xmlschema }}">
+                {{ post.date | date_to_string }}
+            </abbr>
+        </p>
     </header>
-    <section class="entry-content">{{ content }}</section>
+    <section class="entry-content">
+        {{ content }}
+    </section>
 </article>
 
 <div id="disqus_thread"></div>
