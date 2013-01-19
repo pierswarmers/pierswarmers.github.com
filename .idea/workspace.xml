@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2013-01-18-hello-world.md" afterPath="$PROJECT_DIR$/_posts/2013-01-18-hello-world.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/default.html" afterPath="$PROJECT_DIR$/_layouts/default.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/post.html" afterPath="$PROJECT_DIR$/_layouts/post.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <ignored path="pierswarmers.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,10 +62,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2013-01-18-hello-world.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="2013-01-18-hello-world.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2013-01-18-hello-world.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="11" selection-start="52" selection-end="52" vertical-scroll-proportion="0.1591512">
+            <state line="5" column="11" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="0" selection-start="55" selection-end="55" vertical-scroll-proportion="0.09549072">
               <folding />
             </state>
           </provider>
@@ -120,7 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2012-01-28-my-very-first-post.md" />
         <option value="$PROJECT_DIR$/css/ui.totop.css" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/stylesheets/ui.totop.css" />
@@ -131,6 +135,7 @@
         <option value="$PROJECT_DIR$/_layouts/post.html" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_posts/2013-01-18-hello-world.md" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -451,13 +456,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="166" selection-end="166" vertical-scroll-proportion="0.45859873">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="0" selection-start="337" selection-end="337" vertical-scroll-proportion="-11.142858">
@@ -483,7 +481,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2013-01-18-hello-world.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="11" selection-start="52" selection-end="52" vertical-scroll-proportion="0.1591512">
+        <state line="5" column="11" selection-start="52" selection-end="52" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="55" selection-end="55" vertical-scroll-proportion="0.09549072">
           <folding />
         </state>
       </provider>
