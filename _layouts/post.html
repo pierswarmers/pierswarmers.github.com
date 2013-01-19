@@ -11,14 +11,14 @@ blog: true
 
 <article itemscope itemtype="http://schema.org/BlogPosting" class="post">
     <header>
-        <h1 itemprop="name" class="entry-title">
+        <h5 class="sub-header">
+            <abbr class="published updated" title="{{ post.date | date_to_xmlschema }}">
+                {{ post.date | date: "%B %d, %Y" }}
+            </abbr>
+        </h5>
+        <h1 itemprop="name" class="header">
             <a href="{{ site.url }}{{ post.url }}" rel="bookmark">{{ post.title }}</a>
         </h1>
-        <p>
-            <abbr class="published updated" title="{{ post.date | date_to_xmlschema }}">
-                {{ post.date | date_to_string }}
-            </abbr>
-        </p>
     </header>
     <section class="entry-content">
         {{ content }}

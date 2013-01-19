@@ -4,11 +4,9 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
-    {% if page.title %}
-    <title>{{ page.title }} &raquo; {{ site.title }}</title>
-    {% else %}
-    <title>{{ site.title }}</title>
-    {% endif %}
+    
+    <title>Hello World &raquo; Piers Warmers</title>
+    
     <link rel="stylesheet" href="/stylesheets/foundation.min.css">
     <link rel="stylesheet" href="/stylesheets/font-awesome.min.css">
     <link rel="stylesheet" href="/stylesheets/ui.totop.css" />
@@ -20,7 +18,7 @@
 <div class="row">
     <div id="side" class="four columns">
         <header>
-            <h2><a href="/">{{ site.title }}</a></h2>
+            <h2><a href="/">Piers Warmers</a></h2>
         </header>
         <ul id="links">
             <li><i class="icon-github-alt"></i> <span><a href="https://github.com/pierswarmers">@pierswarmers</span></a></li>
@@ -29,7 +27,42 @@
     </div>
     <div id="main" class="eight columns">
         <div id="main" role="main">
-            {{ content }}
+            
+
+
+
+<article itemscope itemtype="http://schema.org/BlogPosting" class="post">
+    <header>
+        <h5 class="sub-header">
+            <abbr class="published updated" title="2013-01-18T00:00:00+11:00">
+                January 18, 2013
+            </abbr>
+        </h5>
+        <h1 itemprop="name" class="header">
+            <a href="/2013/01/18/hello-world" rel="bookmark">Hello World</a>
+        </h1>
+    </header>
+    <section class="entry-content">
+        <p>Finally on <a href="http://jekyllrb.com/">Jekyll</a>. This theme is using <a href="http://foundation.zurb.com/">Foundation</a>
+and <a href="http://fortawesome.github.com/Font-Awesome/#icons-social">Font Awesome</a> and you are more than welcome
+to <a href="https://github.com/pierswarmers/pierswarmers.github.com">fork it</a>.</p>
+
+
+    </section>
+</article>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'pierswarmers';
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+
+
+
         </div>
     </div>
 </div>

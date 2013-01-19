@@ -3,11 +3,18 @@ layout: default
 title: Piers Warmers
 ---
 
-<ul>
-    {% for post in site.posts %}
-    <li>
-        <a class="nine columns" href="{{ post.url }}">{{ post.title }}</a>
-        <span class="two columns">{{ post.date | date: "%b %Y" }}</span>
+<h5 class="sub-header">Recent Posts</h5>
+
+<ul class="post-list">
+    {% for post in site.posts limit:10 %}
+    <li class="post-preview">
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+        <p>
+            <abbr class="published updated" title="{{ post.date | date_to_xmlschema }}">
+                {{ post.date | date: "%B %d, %Y" }}
+            </abbr>
+        </p>
+        <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
     </li>
     {% endfor %}
 </ul>

@@ -1,29 +1,44 @@
-/* Artfully masterminded by ZURB  */
 
-/* -------------------------------------------------- 
-   Table of Contents
------------------------------------------------------
-:: Shared Styles
-:: Page Name 1
-:: Page Name 2
-*/
+@import url(http://fonts.googleapis.com/css?family=Donegal+One);
+@import url(http://fonts.googleapis.com/css?family=Junge);
+@import url(http://fonts.googleapis.com/css?family=Duru+Sans);
 
+/* General ---------------------------------------------------------- */
 
-/* -----------------------------------------
-   Shared Styles
------------------------------------------ */
+h1, h1 a, h2, h2 a, h3, h3 a, h4, h5, h6 { font-family: 'Donegal One', 'Calibri', Helvetica,Arial, sans-serif; font-weight: normal; color: #333 }
+p { font-family:"Duru Sans"; }
+h1, h2, h3 { font-size: 30px; }
+h5.sub-header { border-bottom: 2px solid #e6ebee; margin-bottom: 17px; padding-bottom: 17px; color: #999; }
+h5 abbr { border: 0; font-size: 17px; color: #999; }
+a { color: #fa531c; }
+a:hover { color: #c64216; }
+h1 a:hover, h2 a:hover, h3 a:hover { color: #fa531c; }
 
+/* Layout ----------------------------------------------------------- */
 
+#side { position: fixed }
 
-/* -----------------------------------------
-   Page Name 1
------------------------------------------ */
+@media only screen and (max-width: 767px) {
+    #side { background: #999; position: relative; text-align: right; }
+    #side h2 { float: left; padding: 17px 0 0; margin-top: 0; }
+    #side h2, #side h2 a { font-size: 17px; color: #000; }
+}
 
+/* Posts ------------------------------------------------------------ */
 
+ul.post-list { list-style: none; }
+ul.post-list li, article { border-bottom: 2px solid #e6ebee; }
+article { margin-bottom: 17px; }
 
+/* Links ------------------------------------------------------------ */
 
-/* -----------------------------------------
-   Page Name 2
------------------------------------------ */
+ul#links { list-style: none; }
+ul#links a { color: #000; }
+ul#links .github { background: url(../images/blacktocat-16.png) no-repeat 0 50%; padding-left: 23px; }
+
+@media only screen and (max-width: 767px) {
+    ul#links li { display: inline-block; line-height: 1.1; font-size: 17px; padding: 17px 0 0; }
+    ul#links span { display: none; }
+}
 
 
