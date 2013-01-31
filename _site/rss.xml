@@ -33,7 +33,7 @@
 
 &lt;h2 id=&quot;microsoft-sql-server-on-remote-server&quot;&gt;Microsoft SQL Server on Remote Server&lt;/h2&gt;
 
-&lt;p&gt;It’s pretty rare I get to play with SQL Server, but at least a couple of my ongoing projects use remote SQL Server access. This example is from a Microsoft SQL Server 2008R2, the drivers can be &lt;a href=&quot;http://msdn.microsoft.com/en-us/sqlserver/aa937724.aspx&quot;&gt;downloaded from Microsoft&lt;/a&gt;. Like above, I unpack them into a shared location and…&lt;/p&gt;
+&lt;p&gt;It’s pretty rare I get to play with SQL Server, but at least a couple of my ongoing projects use remote SQL Server access. This example is from a Microsoft SQL Server 2008R2 connection. The drivers can be &lt;a href=&quot;http://msdn.microsoft.com/en-us/sqlserver/aa937724.aspx&quot;&gt;downloaded from Microsoft&lt;/a&gt;. Like above, I unpack them into a shared location and…&lt;/p&gt;
 
 &lt;p&gt;I used the package:&lt;/p&gt;
 

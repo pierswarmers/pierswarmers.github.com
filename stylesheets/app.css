@@ -48,7 +48,7 @@ ul#links .github { background: url(../images/blacktocat-16.png) no-repeat 0 50%;
 /* Syntax ----------------------------------------------------------- */
 
 div.highlight { background: transparent; }
-code { background: transparent; padding: 10px; border: 2px dotted #e6ebee; display: block; margin-bottom: 17px; }
+code { background: transparent; padding: 10px; border: 2px dotted #e6ebee; display: block; margin-bottom: 17px; overflow: hidden; overflow-style: scrollbar }
 
 code.php .k {color: #FF8400}
 code.php .s1 {color: #56D036}
