@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    
+    <title>PHPStorm Data Sources and JDBC &raquo; Piers Warmers</title>
+    
+    <link rel="stylesheet" href="/stylesheets/foundation.min.css">
+    <link rel="stylesheet" href="/stylesheets/font-awesome.min.css">
+    <link rel="stylesheet" href="/stylesheets/ui.totop.css" />
+    <link rel="stylesheet" href="/stylesheets/app.css">
+    <script src="javascripts/modernizr.foundation.js"></script>
+    <link href="/atom.xml" rel="alternate" title="Piers Warmers" type="application/atom+xml" />
+</head>
+<body>
+<div id="outer-holder">
+    <div class="row">
+        <div id="side" class="four columns">
+            <header>
+                <h2><a href="/">Piers Warmers</a></h2>
+            </header>
+            <ul id="links">
+                <li><a href="https://github.com/pierswarmers"><i class="icon-github-alt"></i><span> @pierswarmers</span></a></li>
+                <li><a href="https://twitter.com/warmers"><i class="icon-twitter"></i><span> @warmers</span></a></li>
+                <li><a href="/rss.xml"><i class="icon-rss"></i><span> RSS</span></a></li>
+            </ul>
+        </div>
+        <div id="main" class="eight columns">
+            <div id="main" role="main">
+                
+
+
+
+<article itemscope itemtype="http://schema.org/BlogPosting" class="post">
+    <header>
+        <h5 class="sub-header">
+            <abbr class="published updated" title="2013-01-31T00:00:00+11:00">
+                January 31, 2013
+            </abbr>
+        </h5>
+        <h1 itemprop="name" class="header">
+            <a href="/2013/01/31/phpstorm-data-source" rel="bookmark">PHPStorm Data Sources and JDBC</a>
+        </h1>
+    </header>
+    <section class="entry-content">
+        <p>Setting up <a href="http://www.jetbrains.com/phpstorm/">PHPStorms</a> database integration for <a href="#mysql-on-localhost">MySQL</a> and <a href="#microsoft-sql-server-on-remote-server">Microsoft SQL Server</a>, I ran into a couple of small gotcha’s which might be worth noting for anyone else struggling through some of the vague error messages.</p>
+
+<p>To keep things brief I’ll note the the server locations and JDBC libraries I used.</p>
+
+<h2 id="mysql-on-localhost">MySQL On Localhost</h2>
+
+<p>I run a local MySQL server on my OS X machine (mysql-5.5.25a-osx10.6-x86_64). The JDBC driver I used was downloaded from <a href="http://dev.mysql.com/downloads/connector/j/">the source</a> and unpacked into a safe location.</p>
+
+<p>I used the package:</p>
+
+<p><code>mysql-connector-java-5.1.22-bin.jar</code></p>
+
+<p>…and the class:</p>
+
+<p><code>com.mysql.jdbc.Driver</code></p>
+
+<p>My server location looked something like:</p>
+
+<p><code>jdbc:mysql://localhost:3306/myDataBaseName</code></p>
+
+<p>Done and done!</p>
+
+<h2 id="microsoft-sql-server-on-remote-server">Microsoft SQL Server on Remote Server</h2>
+
+<p>It’s pretty rare I get to play with SQL Server, but at least a couple of my ongoing projects use remote SQL Server access. This example is from a Microsoft SQL Server 2008R2 connection. The drivers can be <a href="http://msdn.microsoft.com/en-us/sqlserver/aa937724.aspx">downloaded from Microsoft</a>. Like above, I unpack them into a shared location and…</p>
+
+<p>I used the package:</p>
+
+<p><code>jdbcsql.jar</code></p>
+
+<p>…and the class:</p>
+
+<p><code>com.microsoft.sqlserver.jdbc.SQLServerDriver</code></p>
+
+<p>My server location looked something like:</p>
+
+<p><code>jdbc:sqlserver://example.com:1433;databaseName=myDataBaseName</code></p>
+
+<p>Hope it helps!</p>
+
+    </section>
+</article>
+
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'pierswarmers';
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+
+
+
+            </div>
+        </div>
+    </div>
+
+    <script src="/javascripts/foundation.min.js"></script>
+    <script src="/javascripts/easing.js" type="text/javascript"></script>
+    <script src="/javascripts/jquery.ui.totop.js" type="text/javascript"></script>
+    <script src="javascripts/app.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $().UItoTop({ easingType: 'easeOutQuart' });
+            $("h2, h3, h4, h5, h6").each(function () {
+                var _id = $(this).attr('id');
+
+                if (undefined !== _id) {
+                    _anchor = '<a href="#' + _id + '" class="anchor_link">¶</a>';
+                    $(this).append(_anchor);
+                }
+            });
+        });
+    </script>
+
+    <script type="text/javascript">
+        (function() {
+            var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+            po.src = 'https://apis.google.com/js/plusone.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+        })();
+    </script>
+
+    <script type="text/javascript">
+        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+    </script>
+
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-87142-7']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+</div>
+</body>
+</html>
