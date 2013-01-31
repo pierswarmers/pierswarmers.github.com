@@ -8,9 +8,12 @@
 h1, h1 a, h2, h2 a, h3, h3 a, h4, h5, h6 { font-family: 'Donegal One', 'Calibri', Helvetica,Arial, sans-serif; font-weight: normal; color: #333 }
 p { font-family:"Duru Sans"; }
 h1, h2, h3 { font-size: 30px; }
+.entry-content h2 { font-size: 20px; border-top: 2px solid #e6ebee; padding-top: 17px; }
+.entry-content h3 { font-size: 18px; }
 h5.sub-header { border-bottom: 2px solid #e6ebee; margin-bottom: 17px; padding-bottom: 17px; color: #999; }
 h5 abbr { border: 0; font-size: 17px; color: #999; }
 a { color: #fa531c; }
+.anchor_link { color: #fff; }
 a:hover { color: #c64216; }
 h1 a:hover, h2 a:hover, h3 a:hover { color: #fa531c; }
 
@@ -42,4 +45,27 @@ ul#links .github { background: url(../images/blacktocat-16.png) no-repeat 0 50%;
     ul#links a { color: #fff; }
 }
 
+/* Syntax ----------------------------------------------------------- */
 
+div.highlight { background: transparent; }
+code { background: transparent; padding: 10px; border: 2px dotted #e6ebee; display: block; margin-bottom: 17px; }
+
+code.php .k {color: #FF8400}
+code.php .s1 {color: #56D036}
+code.php .c1 {color: #BD48B3; font-style: italic}
+code.php .coMULTI {color: #BD48B3; font-style: italic}
+code.php .p {color: #999}
+code.php .nv {color: #fff}
+code.php a {text-decoration: none}
+code.php .cp {color: #A829D9; font-style: italic}
+code.php .na {color: #fff;}
+code.php .nf {color: #fff;}
+
+code.xml .cp {color: #A829D9; font-style: italic}
+code.xml .s {color: #56DB39;}
+code.xml .nt {color: #ccc;}
+
+code.yaml .p-Indicator {color: #FF8400;}
+code.yaml .c1 {color: #ccc; font-style: italic;}
+code.yaml .s {color: #0086d2;}
+code.yaml .nv {color: #fff;}
