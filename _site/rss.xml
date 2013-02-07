@@ -8,6 +8,37 @@
 		
 			
 			<item>
+				<title>Symfony Components for Drupal</title>
+				<description>&lt;p&gt;I’ve been lucky enough to be invited to give a talk at &lt;a href=&quot;http://sydney2013.drupal.org&quot;&gt;DrupalCon Sydney&lt;/a&gt; about Symfony Components. So here are the &lt;a href=&quot;http://sydney2013.drupal.org/sites/default/files/slides/Symfony%20Components%20-%20A%20Travel%20Guide_7.pdf&quot;&gt;slides&lt;/a&gt; and some extended examples for those interested.&lt;/p&gt;
+
+&lt;p&gt;The example demonstrates how the Symfony HTTP Kernal, HTTP Foundation, Routing and Twig Components can be used to build a very simple application.&lt;/p&gt;
+
+&lt;p&gt;The commands noted in the discussion download, unpack and then run the example application.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Please note:&lt;/strong&gt; these commands may need to be adjusted depending on your setup. Also PHP testing server is only available for PHP 5.4.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;curl https://gist.github.com/pierswarmers/4712678/download &amp;gt; app.tar.gz | tar -zx
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;gist4712678-*
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;curl -s https://getcomposer.org/installer | php
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;php ./composer.phar install
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;php -S localhost:8000
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check it out: &lt;a href=&quot;http://localhost:8000/app.php/say/hello/DrupalCon&quot;&gt;http://localhost:8000/app.php/say/hello/DrupalCon&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And the code for browsing pleasure…&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/pierswarmers/4712678.js&quot;&gt;&lt;/script&gt;
+
+</description>
+				<pubDate>Thu, 07 Feb 2013 00:00:00 +1100</pubDate>
+				<link>/2013/02/07/symfony-components</link>
+				<guid isPermaLink="true">/2013/02/07/symfony-components</guid>
+			</item>
+			
+		
+			
+			<item>
 				<title>PHPStorm Data Sources and JDBC</title>
 				<description>&lt;p&gt;Setting up &lt;a href=&quot;http://www.jetbrains.com/phpstorm/&quot;&gt;PHPStorms&lt;/a&gt; database integration for &lt;a href=&quot;#mysql-on-localhost&quot;&gt;MySQL&lt;/a&gt; and &lt;a href=&quot;#microsoft-sql-server-on-remote-server&quot;&gt;Microsoft SQL Server&lt;/a&gt;, I ran into a couple of small gotcha’s which might be worth noting for anyone else struggling through some of the vague error messages.&lt;/p&gt;
 

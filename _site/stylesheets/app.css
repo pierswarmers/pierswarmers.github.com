@@ -6,7 +6,7 @@
 /* General ---------------------------------------------------------- */
 
 h1, h1 a, h2, h2 a, h3, h3 a, h4, h5, h6 { font-family: 'Donegal One', 'Calibri', Helvetica,Arial, sans-serif; font-weight: normal; color: #333 }
-p { font-family:"Duru Sans"; }
+p, li { font-family: "Duru Sans"; }
 h1, h2, h3 { font-size: 30px; }
 .entry-content h2 { font-size: 20px; border-top: 2px solid #e6ebee; padding-top: 17px; }
 .entry-content h3 { font-size: 18px; }
@@ -47,25 +47,30 @@ ul#links .github { background: url(../images/blacktocat-16.png) no-repeat 0 50%;
 
 /* Syntax ----------------------------------------------------------- */
 
-div.highlight { background: transparent; }
-code { background: transparent; padding: 10px; border: 2px dotted #e6ebee; display: block; margin-bottom: 17px; overflow: hidden; overflow-style: scrollbar }
+code { font-weight: normal; background: #ecf1f4; }
 
-code.php .k {color: #FF8400}
-code.php .s1 {color: #56D036}
-code.php .c1 {color: #BD48B3; font-style: italic}
-code.php .coMULTI {color: #BD48B3; font-style: italic}
+div.highlight { background: #ecf1f4; line-height: 1.6 }
+div.highlight code { background: transparent; padding: 10px; border: 2px dotted #cfd3d6; display: block; margin-bottom: 17px; overflow: auto; }
+
+table.highlight { background: transparent; border: 0; margin-bottom: 0; }
+div.file-data { background: #ecf1f4; }
+
+code.php .k {color: #c56600; font-weight: bold; }
+code.php .s1 {color: #3d9327 }
+code.php .c1 {color: #8a3583; font-style: italic}
+code.php .coMULTI {color: #3d42b4; font-style: italic}
 code.php .p {color: #999}
-code.php .nv {color: #fff}
+code.php .nv {color: #222; font-weight: bold; }
 code.php a {text-decoration: none}
 code.php .cp {color: #A829D9; font-style: italic}
-code.php .na {color: #fff;}
-code.php .nf {color: #fff;}
+code.php .na {color: #555;}
+code.php .nf {color: #555;}
 
 code.xml .cp {color: #A829D9; font-style: italic}
-code.xml .s {color: #56DB39;}
+code.xml .s {color: #48b730;}
 code.xml .nt {color: #ccc;}
 
 code.yaml .p-Indicator {color: #FF8400;}
-code.yaml .c1 {color: #ccc; font-style: italic;}
+code.yaml .c1 {color: #378d25; font-style: italic;}
 code.yaml .s {color: #0086d2;}
-code.yaml .nv {color: #fff;}
+code.yaml .nv {color: #555;}

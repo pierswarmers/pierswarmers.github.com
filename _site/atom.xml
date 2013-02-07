@@ -4,13 +4,42 @@
  <title>Piers Warmers</title>
  <link href="http://pierswarmers.com/atom.xml" rel="self"/>
  <link href="http://pierswarmers.com/"/>
- <updated>2013-01-31T14:11:16+11:00</updated>
+ <updated>2013-02-07T12:38:19+11:00</updated>
  <id>http://pierswarmers.com/</id>
  <author>
    <name>Piers Warmers</name>
    <email>hello@pierswarmers.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Symfony Components for Drupal</title>
+   <link href="http://pierswarmers.com/2013/02/07/symfony-components"/>
+   <updated>2013-02-07T00:00:00+11:00</updated>
+   <id>http://pierswarmers.com/2013/02/07/symfony-components</id>
+   <content type="html">&lt;p&gt;I’ve been lucky enough to be invited to give a talk at &lt;a href=&quot;http://sydney2013.drupal.org&quot;&gt;DrupalCon Sydney&lt;/a&gt; about Symfony Components. So here are the &lt;a href=&quot;http://sydney2013.drupal.org/sites/default/files/slides/Symfony%20Components%20-%20A%20Travel%20Guide_7.pdf&quot;&gt;slides&lt;/a&gt; and some extended examples for those interested.&lt;/p&gt;
+
+&lt;p&gt;The example demonstrates how the Symfony HTTP Kernal, HTTP Foundation, Routing and Twig Components can be used to build a very simple application.&lt;/p&gt;
+
+&lt;p&gt;The commands noted in the discussion download, unpack and then run the example application.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Please note:&lt;/strong&gt; these commands may need to be adjusted depending on your setup. Also PHP testing server is only available for PHP 5.4.&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;curl https://gist.github.com/pierswarmers/4712678/download &amp;gt; app.tar.gz | tar -zx
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;gist4712678-*
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;curl -s https://getcomposer.org/installer | php
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;php ./composer.phar install
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;php -S localhost:8000
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check it out: &lt;a href=&quot;http://localhost:8000/app.php/say/hello/DrupalCon&quot;&gt;http://localhost:8000/app.php/say/hello/DrupalCon&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And the code for browsing pleasure…&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/pierswarmers/4712678.js&quot;&gt;&lt;/script&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>PHPStorm Data Sources and JDBC</title>
