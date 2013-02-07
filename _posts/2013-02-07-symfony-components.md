@@ -6,7 +6,9 @@ author: Piers Warmers
 
 I've been lucky enough to be invited to give a talk at [DrupalCon Sydney](http://sydney2013.drupal.org) about Symfony Components. So here are the [slides](http://sydney2013.drupal.org/sites/default/files/slides/Symfony%20Components%20-%20A%20Travel%20Guide_7.pdf) and some extended examples for those interested.
 
-The example demonstrates how the Symfony HTTP Kernal, HTTP Foundation, Routing and Twig Components can be used to build a very simple application.
+<iframe width="420" height="315" src="http://www.youtube.com/embed/Tep1-oq6jrU" frameborder="0" allowfullscreen></iframe>
+
+The following is an example which demonstrates how the Symfony HTTP Kernel, HTTP Foundation, Routing and Twig Components can be used to build a very simple application.
 
 The commands noted in the discussion download, unpack and then run the example application.
 
