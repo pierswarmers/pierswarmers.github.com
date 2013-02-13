@@ -4,7 +4,7 @@
  <title>Piers Warmers</title>
  <link href="http://pierswarmers.com/atom.xml" rel="self"/>
  <link href="http://pierswarmers.com/"/>
- <updated>2013-02-07T12:38:19+11:00</updated>
+ <updated>2013-02-14T10:09:31+11:00</updated>
  <id>http://pierswarmers.com/</id>
  <author>
    <name>Piers Warmers</name>
@@ -13,13 +13,27 @@
 
  
  <entry>
+   <title>Symfony Live</title>
+   <link href="http://pierswarmers.com/2013/02/07/symfony-live"/>
+   <updated>2013-02-07T00:00:00+11:00</updated>
+   <id>http://pierswarmers.com/2013/02/07/symfony-live</id>
+   <content type="html">&lt;p&gt;Very keen to make it to Symfony Live Portland this year. This time it will be running next to DrupalCon Portland and WebVisions. It’s sure to be a busy couple of days.&lt;/p&gt;
+
+&lt;script src=&quot;http://tra.cd/piers/organising/symfony_live.js&quot;&gt;&lt;/script&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
    <title>Symfony Components for Drupal</title>
    <link href="http://pierswarmers.com/2013/02/07/symfony-components"/>
    <updated>2013-02-07T00:00:00+11:00</updated>
    <id>http://pierswarmers.com/2013/02/07/symfony-components</id>
    <content type="html">&lt;p&gt;I’ve been lucky enough to be invited to give a talk at &lt;a href=&quot;http://sydney2013.drupal.org&quot;&gt;DrupalCon Sydney&lt;/a&gt; about Symfony Components. So here are the &lt;a href=&quot;http://sydney2013.drupal.org/sites/default/files/slides/Symfony%20Components%20-%20A%20Travel%20Guide_7.pdf&quot;&gt;slides&lt;/a&gt; and some extended examples for those interested.&lt;/p&gt;
 
-&lt;p&gt;The example demonstrates how the Symfony HTTP Kernal, HTTP Foundation, Routing and Twig Components can be used to build a very simple application.&lt;/p&gt;
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/Tep1-oq6jrU&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The following is an example which demonstrates how the Symfony HTTP Kernel, HTTP Foundation, Routing and Twig Components can be used to build a very simple application.&lt;/p&gt;
 
 &lt;p&gt;The commands noted in the discussion download, unpack and then run the example application.&lt;/p&gt;
 
