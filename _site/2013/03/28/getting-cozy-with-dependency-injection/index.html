@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
     
-    <title>LESS Compilation Issues &raquo; Piers Warmers</title>
+    <title>Getting Cozy With Dependency Injection &raquo; Piers Warmers</title>
     
     <link rel="stylesheet" href="/stylesheets/foundation.min.css">
     <link rel="stylesheet" href="/stylesheets/font-awesome.min.css">
@@ -36,32 +36,20 @@
 <article itemscope itemtype="http://schema.org/BlogPosting" class="post">
     <header>
         <h5 class="sub-header">
-            <abbr class="published updated" title="2013-02-15T00:00:00+11:00">
-                February 15, 2013
+            <abbr class="published updated" title="2013-03-28T00:00:00+11:00">
+                March 28, 2013
             </abbr>
         </h5>
         <h1 itemprop="name" class="header">
-            <a href="/2013/02/15/less-compilation-issues" rel="bookmark">LESS Compilation Issues</a>
+            <a href="/2013/03/28/getting-cozy-with-dependency-injection" rel="bookmark">Getting Cozy With Dependency Injection</a>
         </h1>
     </header>
     <section class="entry-content">
-        <p>I love <a href="http://lesscss.org/">LESS</a> and I love <a href="http://symfony.com/doc/2.0/cookbook/assetic/asset_management.html">Assetic Filters in Symfony</a>. But a pretty painful bug while compiling <a href="http:twitter.github.com">Bootstrap</a> LESS libraries nearly did my head in.</p>
+        <p>I’ve just posted a brief introduction to Dependency Injection over on the Cross Media blog.</p>
 
-<p>For the record, the issues were with <a href="https://github.com/cloudhead/less.js">Node.js LESS</a> module. When compiling the Twitter Bootstraps mixins.ls I could see variables being lost with <code>NaN</code> being printed.</p>
+<p>See article here: <a href="http://crossfunctional.net/blog/2013/mar/getting-cozy-dependency-injection">Getting Cozy With Dependency Injection</a>.</p>
 
-<p>The solution? Installing lessphp did the trick <code>composer.json</code>:</p>
-
-<div class="highlight"><pre><code class="json"><span class="s2">&quot;require&quot;</span><span class="err">:</span> <span class="p">{</span>
-    <span class="nt">&quot;leafo/lessphp&quot;</span><span class="p">:</span> <span class="s2">&quot;dev-master&quot;</span>
-<span class="p">}</span>
-</code></pre></div>
-
-<p>Then in your <code>config.yml</code>:</p>
-
-<div class="highlight"><pre><code class="yaml"><span class="l-Scalar-Plain">lessphp</span><span class="p-Indicator">:</span>
-    <span class="l-Scalar-Plain">file</span><span class="p-Indicator">:</span> <span class="err">%</span><span class="l-Scalar-Plain">kernel.root_dir%/../vendor/leafo/lessphp/lessc.inc.php</span>
-    <span class="l-Scalar-Plain">apply_to</span><span class="p-Indicator">:</span> <span class="s">&quot;</span><span class="err">\</span><span class="s">.less$&quot;</span>
-</code></pre></div>
+<p>You can also catch myself, <a href="http://www.linkedin.com/in/rcross">Ryan Cross</a> and <a href="http://www.linkedin.com/pub/geoffrey-roberts/4/868/337">Geoffrey Roberts</a> in DrupalCon Portland this May, where we’ll be giving a training session on Drupal 8 and Symfony. <a href="http://portland2013.drupal.org/node/3723">Registration</a> is now open.</p>
 
     </section>
 </article>

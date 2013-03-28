@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" name="Default" comment="" />
+    <list default="true" id="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2013-03-28-getting-cozy-with-dependency-injection.md" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_site/2013/02/15/less-compilation-issues/index.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/rss.xml" afterPath="$PROJECT_DIR$/_site/rss.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="pierswarmers.com.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360895875535" ignored="false" />
+    <file path="/Dummy.txt" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1364445453944" ignored="false" />
     <file path="/_config.yml" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358562407026" ignored="false" />
     <file path="/2012-01-28-my-very-first-post.md" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358473512297" ignored="false" />
     <file path="/default.html" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358579087298" ignored="false" />
@@ -86,6 +93,7 @@
     <file path="/a.less" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360808874543" ignored="false" />
     <file path="/a.twig" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360808881809" ignored="false" />
     <file path="/2013-02-15-less-compilation-issues.md" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360896754071" ignored="false" />
+    <file path="/2013-03-28-dependency-injection.md" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1364446249164" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,10 +140,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2013-02-15-less-compilation-issues.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2013-02-15-less-compilation-issues.md">
+      <file leaf-file-name="2013-03-28-getting-cozy-with-dependency-injection.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2013-03-28-getting-cozy-with-dependency-injection.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="18" selection-start="862" selection-end="862" vertical-scroll-proportion="0.77732795">
+            <state line="10" column="175" selection-start="506" selection-end="506" vertical-scroll-proportion="0.20242915">
               <folding />
             </state>
           </provider>
@@ -159,8 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/_layouts/default.html" />
-        <option value="$PROJECT_DIR$/tag.html" />
         <option value="$PROJECT_DIR$/_posts/2013-01-18-hello-world.md" />
         <option value="$PROJECT_DIR$/_posts/2013-01-31-phpstorm-data-source.md" />
         <option value="$PROJECT_DIR$/index.html" />
@@ -170,6 +176,8 @@
         <option value="$PROJECT_DIR$/_posts/2013-02-07-symfony-components.md" />
         <option value="$PROJECT_DIR$/_posts/2013-02-07-symfony-live.md" />
         <option value="$PROJECT_DIR$/_posts/2013-02-15-less-compilation-issues.md" />
+        <option value="$PROJECT_DIR$/_posts/2013-03-28-dependency-injection.md" />
+        <option value="$PROJECT_DIR$/_posts/2013-03-28-getting-cozy-with-dependency-injection.md" />
       </list>
     </option>
   </component>
@@ -205,6 +213,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -281,17 +290,16 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="Settings.JavaScript" />
+    <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig">
     <servers>
@@ -327,10 +335,10 @@
     <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
       <method />
     </configuration>
-    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
       <method />
     </configuration>
-    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
       <method />
     </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
@@ -381,7 +389,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20588236" sideWeight="0.5838509" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2087518" sideWeight="0.5838509" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -435,6 +443,7 @@
     <option name="UPDATE_FILTER_SCOPE_NAME" />
     <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
     <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" />
@@ -512,9 +521,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-02-15-less-compilation-issues.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2013-03-28-getting-cozy-with-dependency-injection.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="18" selection-start="862" selection-end="862" vertical-scroll-proportion="0.77732795">
+        <state line="10" column="175" selection-start="506" selection-end="506" vertical-scroll-proportion="0.20242915">
           <folding />
         </state>
       </provider>

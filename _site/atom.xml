@@ -4,7 +4,7 @@
  <title>Piers Warmers</title>
  <link href="http://pierswarmers.com/atom.xml" rel="self"/>
  <link href="http://pierswarmers.com/"/>
- <updated>2013-02-15T13:53:58+11:00</updated>
+ <updated>2013-03-28T15:51:02+11:00</updated>
  <id>http://pierswarmers.com/</id>
  <author>
    <name>Piers Warmers</name>
@@ -13,27 +13,15 @@
 
  
  <entry>
-   <title>LESS Compilation Issues</title>
-   <link href="http://pierswarmers.com/2013/02/15/less-compilation-issues"/>
-   <updated>2013-02-15T00:00:00+11:00</updated>
-   <id>http://pierswarmers.com/2013/02/15/less-compilation-issues</id>
-   <content type="html">&lt;p&gt;I love &lt;a href=&quot;http://lesscss.org/&quot;&gt;LESS&lt;/a&gt; and I love &lt;a href=&quot;http://symfony.com/doc/2.0/cookbook/assetic/asset_management.html&quot;&gt;Assetic Filters in Symfony&lt;/a&gt;. But a pretty painful bug while compiling &lt;a href=&quot;http:twitter.github.com&quot;&gt;Bootstrap&lt;/a&gt; LESS libraries nearly did my head in.&lt;/p&gt;
+   <title>Getting Cozy With Dependency Injection</title>
+   <link href="http://pierswarmers.com/2013/03/28/getting-cozy-with-dependency-injection"/>
+   <updated>2013-03-28T00:00:00+11:00</updated>
+   <id>http://pierswarmers.com/2013/03/28/getting-cozy-with-dependency-injection</id>
+   <content type="html">&lt;p&gt;I’ve just posted a brief introduction to Dependency Injection over on the Cross Media blog.&lt;/p&gt;
 
-&lt;p&gt;For the record, the issues were with &lt;a href=&quot;https://github.com/cloudhead/less.js&quot;&gt;Node.js LESS&lt;/a&gt; module. When compiling the Twitter Bootstraps mixins.ls I could see variables being lost with &lt;code&gt;NaN&lt;/code&gt; being printed.&lt;/p&gt;
+&lt;p&gt;See article here: &lt;a href=&quot;http://crossfunctional.net/blog/2013/mar/getting-cozy-dependency-injection&quot;&gt;Getting Cozy With Dependency Injection&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;The solution? Installing lessphp did the trick &lt;code&gt;composer.json&lt;/code&gt;:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;json&quot;&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;require&amp;quot;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;quot;leafo/lessphp&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;dev-master&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Then in your &lt;code&gt;config.yml&lt;/code&gt;:&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;yaml&quot;&gt;&lt;span class=&quot;l-Scalar-Plain&quot;&gt;lessphp&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt;
-    &lt;span class=&quot;l-Scalar-Plain&quot;&gt;file&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;l-Scalar-Plain&quot;&gt;kernel.root_dir%/../vendor/leafo/lessphp/lessc.inc.php&lt;/span&gt;
-    &lt;span class=&quot;l-Scalar-Plain&quot;&gt;apply_to&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s&quot;&gt;&amp;quot;&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;\&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;.less$&amp;quot;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;You can also catch myself, &lt;a href=&quot;http://www.linkedin.com/in/rcross&quot;&gt;Ryan Cross&lt;/a&gt; and &lt;a href=&quot;http://www.linkedin.com/pub/geoffrey-roberts/4/868/337&quot;&gt;Geoffrey Roberts&lt;/a&gt; in DrupalCon Portland this May, where we’ll be giving a training session on Drupal 8 and Symfony. &lt;a href=&quot;http://portland2013.drupal.org/node/3723&quot;&gt;Registration&lt;/a&gt; is now open.&lt;/p&gt;
 </content>
  </entry>
  
