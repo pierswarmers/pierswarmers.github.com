@@ -8,6 +8,19 @@
 		
 			
 			<item>
+				<title>PHP, Symfony, OSX – Oh my!</title>
+				<description>&lt;p&gt;Sitting down this morning to update my Brew managed PHP install on OSX – I’s planned to document the process. Justin Hileman had already put together this awesome walk through:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://justinhileman.info/article/reinstalling-php-on-mac-os-x/&quot;&gt;(Re)installing PHP on Mac OS X&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Tue, 04 Jun 2013 00:00:00 +1000</pubDate>
+				<link>/2013/06/04/php-symfony-osx-oh-my</link>
+				<guid isPermaLink="true">/2013/06/04/php-symfony-osx-oh-my</guid>
+			</item>
+			
+		
+			
+			<item>
 				<title>Getting Cozy With Dependency Injection</title>
 				<description>&lt;p&gt;I’ve just posted a brief introduction to Dependency Injection over on the Cross Media blog.&lt;/p&gt;
 

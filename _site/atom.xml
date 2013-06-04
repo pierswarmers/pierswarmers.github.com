@@ -4,13 +4,24 @@
  <title>Piers Warmers</title>
  <link href="http://pierswarmers.com/atom.xml" rel="self"/>
  <link href="http://pierswarmers.com/"/>
- <updated>2013-03-28T15:51:02+11:00</updated>
+ <updated>2013-06-04T13:02:42+10:00</updated>
  <id>http://pierswarmers.com/</id>
  <author>
    <name>Piers Warmers</name>
    <email>hello@pierswarmers.com</email>
  </author>
 
+ 
+ <entry>
+   <title>PHP, Symfony, OSX – Oh my!</title>
+   <link href="http://pierswarmers.com/2013/06/04/php-symfony-osx-oh-my"/>
+   <updated>2013-06-04T00:00:00+10:00</updated>
+   <id>http://pierswarmers.com/2013/06/04/php-symfony-osx-oh-my</id>
+   <content type="html">&lt;p&gt;Sitting down this morning to update my Brew managed PHP install on OSX – I’s planned to document the process. Justin Hileman had already put together this awesome walk through:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://justinhileman.info/article/reinstalling-php-on-mac-os-x/&quot;&gt;(Re)installing PHP on Mac OS X&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Getting Cozy With Dependency Injection</title>
