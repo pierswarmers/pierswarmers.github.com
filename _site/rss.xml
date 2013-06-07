@@ -8,10 +8,27 @@
 		
 			
 			<item>
+				<title>Symfony Live Portland 2013</title>
+				<description>&lt;h1 id=&quot;symfony-live-portland-2013&quot;&gt;Symfony Live Portland 2013&lt;/h1&gt;
+&lt;p&gt;What an awesome week. The combined Drupal and Symfony conference was quite a draw card for the two web communities.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately I couldn’t watch every talk – here is a recap of those I could:&lt;/p&gt;
+
+</description>
+				<pubDate>Tue, 04 Jun 2013 00:00:00 +1000</pubDate>
+				<link>/2013/06/04/symfony-live-portland-2013</link>
+				<guid isPermaLink="true">/2013/06/04/symfony-live-portland-2013</guid>
+			</item>
+			
+		
+			
+			<item>
 				<title>PHP, Symfony, OSX – Oh my!</title>
-				<description>&lt;p&gt;Sitting down this morning to update my Brew managed PHP install on OSX – I’s planned to document the process. Justin Hileman had already put together this awesome walk through:&lt;/p&gt;
+				<description>&lt;p&gt;Sitting down this morning to update my Brew managed PHP install on OSX – I’d planned to document the process. Justin Hileman had already put together this awesome walk through:&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://justinhileman.info/article/reinstalling-php-on-mac-os-x/&quot;&gt;(Re)installing PHP on Mac OS X&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note to self:&lt;/strong&gt; when the PHP module location changes, Apache fails very silently. Took me a while to figure out what was going on. So don’t ignore the “Caveats” notice in the Brew installation output.&lt;/p&gt;
 </description>
 				<pubDate>Tue, 04 Jun 2013 00:00:00 +1000</pubDate>
 				<link>/2013/06/04/php-symfony-osx-oh-my</link>
