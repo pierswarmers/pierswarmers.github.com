@@ -1,93 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" name="Default" comment="" />
+    <list default="true" id="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2014-05-01-stalking-steve-jobs.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/rss.xml" afterPath="$PROJECT_DIR$/_site/rss.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="pierswarmers.com.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1370314673045" ignored="false" />
-    <file path="/_config.yml" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358562407026" ignored="false" />
-    <file path="/2012-01-28-my-very-first-post.md" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358473512297" ignored="false" />
-    <file path="/default.html" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358579087298" ignored="false" />
-    <file path="/index.html" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1359601718834" ignored="false" />
-    <file path="/ui.totop.css" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358482346101" ignored="false" />
-    <file path="/post-article.html" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358483043344" ignored="false" />
-    <file path="/2013-01-18-online-and-cooking.md" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358490674142" ignored="false" />
-    <file path="/a.dummy" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358491748053" ignored="false" />
-    <file path="/2013-01-18-hello-world.md" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358596441612" ignored="false" />
-    <file path="/post.html" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358571447090" ignored="false" />
-    <file path="/app.css" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360046921533" ignored="false" />
-    <file path="$PROJECT_DIR$/_site/stylesheets/foundation.min.css" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358571666639" ignored="false" />
-    <file path="/atom.xml" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358577066348" ignored="false" />
-    <file path="/rss.xml" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1358577368676" ignored="false" />
-    <file path="/2013-01-31-phpstorm-data-source.md" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1359594277061" ignored="false" />
-    <file path="db-console:/b6bd522d/f9a9fd3d-8290-4961-a052-bab3fe95cbf2/" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1359593099759" ignored="false" />
-    <file path="dbtable:/b6bd522d/f9a9fd3d-8290-4961-a052-bab3fe95cbf2/Jim_Profile.dbo.JimCardFileDetails" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1359593102047" ignored="false" />
-    <file path="dbtable:/b6bd522d/f9a9fd3d-8290-4961-a052-bab3fe95cbf2/Jim_Profile.dbo.JimStockGroup" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1359593102047" ignored="false" />
-    <file path="/2013-02-01-decoupling-or-wtf-are-components.md" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360033952003" ignored="false" />
-    <file path="/2013-02-01-outsource-the-other-bits.md" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360043582464" ignored="false" />
-    <file path="$PROJECT_DIR$/../demo1/app.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360323229261" ignored="false" />
-    <file path="$PROJECT_DIR$/../demo1/composer.json" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360104692673" ignored="false" />
-    <file path="/composer.json" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360104669808" ignored="false" />
-    <file path="$PROJECT_DIR$/../tracd/src/Tracd/EventBundle/Controller/BaseController.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360807421310" ignored="false" />
-    <file path="/BaseController.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360211718306" ignored="false" />
-    <file path="$PROJECT_DIR$/../tracd/app/config/config_dev.yml" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360022192729" ignored="false" />
-    <file path="$PROJECT_DIR$/../tracd/src/Tracd/EventBundle/Manager/NotificationManager.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360022631003" ignored="false" />
-    <file path="$PROJECT_DIR$/../tracd/src/Tracd/EventBundle/Resources/config/doctrine/Event.orm.xml" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360022847418" ignored="false" />
-    <file path="/app.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360290753771" ignored="false" />
-    <file path="$PROJECT_DIR$/../demo1/index.html.twig" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360290787490" ignored="false" />
-    <file path="/index.html.twig" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360805976530" ignored="false" />
-    <file path="$PROJECT_DIR$/../demo1/layout.html.twig" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360276207003" ignored="false" />
-    <file path="/layout.html.twig" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360275961076" ignored="false" />
-    <file path="$PROJECT_DIR$/../demo1/request.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360065328339" ignored="false" />
-    <file path="/request.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360065318693" ignored="false" />
-    <file path="$PROJECT_DIR$/../demo1/response.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360067534941" ignored="false" />
-    <file path="/response.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360067520804" ignored="false" />
-    <file path="$PROJECT_DIR$/../demo1/route.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360068865899" ignored="false" />
-    <file path="/route.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360068066567" ignored="false" />
-    <file path="$PROJECT_DIR$/../demo1/twig.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360069481992" ignored="false" />
-    <file path="/twig.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360069389663" ignored="false" />
-    <file path="$PROJECT_DIR$/../demo1/log.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360143922195" ignored="false" />
-    <file path="/log.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360142647496" ignored="false" />
-    <file path="$PROJECT_DIR$/../demo1/psr0.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360106410529" ignored="false" />
-    <file path="/psr0.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360106325698" ignored="false" />
-    <file path="$PROJECT_DIR$/../demo1/psr1.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360108826510" ignored="false" />
-    <file path="/psr1.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360107821740" ignored="false" />
-    <file path="$PROJECT_DIR$/../demo1/psr2.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360109137745" ignored="false" />
-    <file path="/psr2.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360109019219" ignored="false" />
-    <file path="$PROJECT_DIR$/../demo1/database.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360189807514" ignored="false" />
-    <file path="/database.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360189782288" ignored="false" />
-    <file path="/2013-02-07-symfony-components.md" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360209426559" ignored="false" />
-    <file path="$PROJECT_DIR$/../tracd/app/config/config.yml" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360211209153" ignored="false" />
-    <file path="$PROJECT_DIR$/../tracd/src/Tracd/ThemeBundle/Resources/views/layout.html.twig" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360807835517" ignored="false" />
-    <file path="$PROJECT_DIR$/../tracd/src/Tracd/ThemeBundle/Resources/public/js/app.js" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360211735642" ignored="false" />
-    <file path="/app.js" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360211392113" ignored="false" />
-    <file path="$PROJECT_DIR$/../demo1/examples/response.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360298587417" ignored="false" />
-    <file path="$PROJECT_DIR$/../demo1/examples/route.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360298587417" ignored="false" />
-    <file path="$PROJECT_DIR$/../demo1/examples/twig.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360298587417" ignored="false" />
-    <file path="$PROJECT_DIR$/../demo1/examples/log.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360298587417" ignored="false" />
-    <file path="$PROJECT_DIR$/../demo1/examples/request.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360298587417" ignored="false" />
-    <file path="$PROJECT_DIR$/../drupal8_twig/core/modules/taxonomy/templates/taxonomy-term.html.twig" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360321787462" ignored="false" />
-    <file path="/taxonomy-term.html.twig" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360321659935" ignored="false" />
-    <file path="$PROJECT_DIR$/../drupal8_twig/core/modules/taxonomy/taxonomy.module" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360322812549" ignored="false" />
-    <file path="$PROJECT_DIR$/../drupal8_twig/core/modules/toolbar/toolbar.module" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360324342268" ignored="false" />
-    <file path="/2013-02-07-symfony-live.md" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360796855330" ignored="false" />
-    <file path="$PROJECT_DIR$/../tracd/src/Tracd/EventBundle/Resources/views/Base/findByUser.html.twig" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360805991794" ignored="false" />
-    <file path="/findByUser.html.twig" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360797070881" ignored="false" />
-    <file path="$PROJECT_DIR$/../tracd/src/Tracd/EventBundle/Twig/Extension/EventExtension.php" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360797634123" ignored="false" />
-    <file path="$PROJECT_DIR$/../tracd/composer.json" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360802303082" ignored="false" />
-    <file path="$PROJECT_DIR$/../tracd/src/Tracd/EventBundle/Resources/views/Base/index.html.twig" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360805979255" ignored="false" />
-    <file path="$PROJECT_DIR$/../tracd/src/Tracd/EventBundle/Resources/views/Base/stream.html.twig" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360806001369" ignored="false" />
-    <file path="/share.html.twig" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360806045163" ignored="false" />
-    <file path="$PROJECT_DIR$/../tracd/src/Tracd/EventBundle/Resources/views/Base/share.html.twig" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360806176483" ignored="false" />
-    <file path="$PROJECT_DIR$/../tracd/src/Tracd/EventBundle/Resources/views/Base/show.html.twig" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360808353559" ignored="false" />
-    <file path="/show.html.twig" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360807956411" ignored="false" />
-    <file path="$PROJECT_DIR$/../tracd/src/Tracd/EventBundle/Resources/views/Base/event.html.twig" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360809241505" ignored="false" />
-    <file path="/event.html.twig" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360808839503" ignored="false" />
-    <file path="/a.less" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360808874543" ignored="false" />
-    <file path="/a.twig" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360808881809" ignored="false" />
-    <file path="/2013-02-15-less-compilation-issues.md" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1360896754071" ignored="false" />
-    <file path="/2013-03-28-dependency-injection.md" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1364446249164" ignored="false" />
-    <file path="/2013-06-04-php-symfony-osx-oh-my.md" changelist="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" time="1370314625042" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +32,8 @@
       <file leaf-file-name="app.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stylesheets/app.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="11" selection-start="200" selection-end="200" vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1170">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -119,7 +42,8 @@
       <file leaf-file-name="2013-02-01-outsource-the-other-bits.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_darfts/2013-02-01-outsource-the-other-bits.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="46" selection-start="76" selection-end="293" vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="4365">
+              <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -128,7 +52,8 @@
       <file leaf-file-name="2013-02-07-symfony-live.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2013-02-07-symfony-live.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="56" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="150">
+              <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
               <folding />
             </state>
           </provider>
@@ -137,16 +62,18 @@
       <file leaf-file-name="2013-03-28-getting-cozy-with-dependency-injection.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2013-03-28-getting-cozy-with-dependency-injection.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="180">
+              <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2013-06-04-php-symfony-osx-oh-my.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2013-06-04-php-symfony-osx-oh-my.md">
+      <file leaf-file-name="2014-05-01-stalking-steve-jobs.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2014-05-01-stalking-steve-jobs.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="97" selection-start="353" selection-end="353" vertical-scroll-proportion="0.1790451">
+            <state vertical-scroll-proportion="0.17266187" vertical-offset="0" max-vertical-offset="950">
+              <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
               <folding />
             </state>
           </provider>
@@ -170,8 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/_posts/2013-01-31-phpstorm-data-source.md" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_posts/2013-02-01-decoupling-or-wtf-are-components.md" />
         <option value="$PROJECT_DIR$/_posts/2013-02-01-outsource-the-other-bits.md" />
         <option value="$PROJECT_DIR$/stylesheets/app.css" />
@@ -181,6 +106,8 @@
         <option value="$PROJECT_DIR$/_posts/2013-03-28-dependency-injection.md" />
         <option value="$PROJECT_DIR$/_posts/2013-03-28-getting-cozy-with-dependency-injection.md" />
         <option value="$PROJECT_DIR$/_posts/2013-06-04-php-symfony-osx-oh-my.md" />
+        <option value="$PROJECT_DIR$/_posts/2013-07-17-search-and-users.md" />
+        <option value="$PROJECT_DIR$/_posts/2014-05-01-stalking-steve-jobs.md" />
       </list>
     </option>
   </component>
@@ -205,7 +132,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -217,7 +144,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -294,6 +220,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -304,20 +231,6 @@
     <property name="FullScreen" value="false" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
-  </component>
-  <component name="PublishConfig">
-    <servers>
-      <server id="2a613eaa-e14e-4c80-9c48-4c5adaa48017">
-        <serverdata />
-      </server>
-      <server id="8a04f266-0e8d-46f4-8a1c-a9c8f0983e33">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" />
-          </mappings>
-        </serverdata>
-      </server>
-    </servers>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -342,13 +255,16 @@
     <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
       <method />
     </configuration>
-    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
-      <method />
-    </configuration>
     <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
       <method />
     </configuration>
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+      <method />
+    </configuration>
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
     <configuration default="true" type="XSLT" factoryName="XSLT">
@@ -379,22 +295,8 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
-    <option name="USER" value="" />
-    <option name="PASSWORD" value="" />
-    <option name="mySSHConnectionTimeout" value="30000" />
-    <option name="mySSHReadTimeout" value="30000" />
-    <option name="LAST_MERGED_REVISION" />
-    <option name="MERGE_DRY_RUN" value="false" />
-    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
-    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
-    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
-    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
-    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
-    <option name="FORCE_UPDATE" value="false" />
-    <option name="IGNORE_EXTERNALS" value="false" />
-    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  <component name="SvnConfiguration" myUseAcceleration="nothing">
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -413,13 +315,13 @@
     <frame x="299" y="181" width="1440" height="874" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20833333" sideWeight="0.5838509" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21745351" sideWeight="0.5838509" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -429,134 +331,105 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41614908" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="CHECK_NEW_TODO" value="true" />
     <option name="myTodoPanelSettings">
-      <value>
-        <are-packages-shown value="false" />
-        <are-modules-shown value="false" />
-        <flatten-packages value="false" />
-        <is-autoscroll-to-source value="false" />
-      </value>
+      <TodoPanelSettings />
     </option>
-    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
-    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
-    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
-    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
-    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
-    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
-    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
-    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
-    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
-    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
-    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
-    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
-    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
-    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
-    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
-    <option name="LIMIT_HISTORY" value="true" />
-    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
-    <option name="UPDATE_FILTER_SCOPE_NAME" />
-    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
-    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
-    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
-    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="New PHP install article" />
-    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
-    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
-    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
-    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
-    <option name="ACTIVE_VCS_NAME" />
-    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
-    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
-    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
-    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
-    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="New PHP install article" />
+    <option name="LAST_COMMIT_MESSAGE" value="New PHP install article" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="8" selection-start="94" selection-end="94" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tag.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="26" selection-start="433" selection-end="433" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="14" selection-start="34" selection-end="34" vertical-scroll-proportion="0.03782506" />
+        <state vertical-scroll-proportion="0.03782506" vertical-offset="0" max-vertical-offset="0">
+          <caret line="2" column="14" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2013-01-18-hello-world.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="21" selection-start="57" selection-end="57" vertical-scroll-proportion="0.05564142" />
+        <state vertical-scroll-proportion="0.05564142" vertical-offset="0" max-vertical-offset="0">
+          <caret line="3" column="21" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2013-01-31-phpstorm-data-source.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="865" selection-end="865" vertical-scroll-proportion="0.43091336" />
+        <state vertical-scroll-proportion="0.43091336" vertical-offset="0" max-vertical-offset="0">
+          <caret line="23" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2013-02-07-symfony-components.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="517" selection-end="517" vertical-scroll-proportion="0.29149798" />
+        <state vertical-scroll-proportion="0.29149798" vertical-offset="0" max-vertical-offset="0">
+          <caret line="9" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/app.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="11" selection-start="200" selection-end="200" vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="1170">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_darfts/2013-02-01-outsource-the-other-bits.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="46" selection-start="76" selection-end="293" vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="4365">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2013-02-07-symfony-live.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="56" selection-start="289" selection-end="289" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2013-03-28-getting-cozy-with-dependency-injection.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="182" selection-end="182" vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="150">
+          <caret line="8" column="56" selection-start-line="8" selection-start-column="56" selection-end-line="8" selection-end-column="56" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2013-06-04-php-symfony-osx-oh-my.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="97" selection-start="353" selection-end="353" vertical-scroll-proportion="0.1790451">
+        <state vertical-scroll-proportion="0.20891365" vertical-offset="0" max-vertical-offset="0">
+          <caret line="10" column="63" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2013-03-28-getting-cozy-with-dependency-injection.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="180">
+          <caret line="10" column="48" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2014-05-01-stalking-steve-jobs.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.17266187" vertical-offset="0" max-vertical-offset="950">
+          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
           <folding />
         </state>
       </provider>
