@@ -2,29 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/2014-05/passwords.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2014-05-23-is-your-password-awesome.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/font/FontAwesome.otf" afterPath="$PROJECT_DIR$/_site/font/FontAwesome.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/font/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/_site/font/fontawesome-webfont.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/font/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/_site/font/fontawesome-webfont.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/font/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/_site/font/fontawesome-webfont.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/images/ui.totop.png" afterPath="$PROJECT_DIR$/_site/images/ui.totop.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/README.md" afterPath="$PROJECT_DIR$/_site/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/stylesheets/app.css" afterPath="$PROJECT_DIR$/_site/stylesheets/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/app.css" afterPath="$PROJECT_DIR$/stylesheets/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/javascripts/easing.js" afterPath="$PROJECT_DIR$/_site/javascripts/easing.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/stylesheets/font-awesome-ie7.min.css" afterPath="$PROJECT_DIR$/_site/stylesheets/font-awesome-ie7.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/stylesheets/font-awesome.css" afterPath="$PROJECT_DIR$/_site/stylesheets/font-awesome.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/stylesheets/font-awesome.min.css" afterPath="$PROJECT_DIR$/_site/stylesheets/font-awesome.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/font/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/_site/font/fontawesome-webfont.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/2013/02/07/symfony-components/index.html" afterPath="$PROJECT_DIR$/_site/2013/02/07/symfony-components/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/javascripts/jquery.ui.totop.js" afterPath="$PROJECT_DIR$/_site/javascripts/jquery.ui.totop.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/javascripts/jquery.ui.totop.min.js" afterPath="$PROJECT_DIR$/_site/javascripts/jquery.ui.totop.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/robots.txt" afterPath="$PROJECT_DIR$/_site/robots.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/rss.xml" afterPath="$PROJECT_DIR$/_site/rss.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/stylesheets/ui.totop.css" afterPath="$PROJECT_DIR$/_site/stylesheets/ui.totop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/_posts/2015-03-10-php-symfony-syntax-test-checker.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="pierswarmers.com.iws" />
@@ -73,11 +51,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2014-05-23-is-your-password-awesome.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2014-05-23-is-your-password-awesome.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2014-05-23-is-your-password-awesome.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.61102235" vertical-offset="0" max-vertical-offset="2152">
-              <caret line="51" column="33" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+            <state vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="2152">
+              <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2015-03-10-php-symfony-syntax-test-checker.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2015-03-10-php-symfony-syntax-test-checker.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.07188498" vertical-offset="0" max-vertical-offset="1342">
+              <caret line="6" column="84" selection-start-line="6" selection-start-column="84" selection-end-line="6" selection-end-column="84" />
               <folding />
             </state>
           </provider>
@@ -115,6 +106,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/_posts/2014-05-23-is-your-password-awesome.md" />
+        <option value="$PROJECT_DIR$/_posts/2015-03-10-php-symfony-syntax-test-checker.md" />
       </list>
     </option>
   </component>
@@ -215,8 +207,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/images/2014-05" />
       <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/images/2014-05" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_darfts" />
@@ -249,6 +241,10 @@
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
     <configuration default="true" type="XSLT" factoryName="XSLT">
       <option name="myOutputFile" />
       <option name="myOpenOutputFile" value="false" />
@@ -263,6 +259,9 @@
       <OutputType value="CONSOLE" save-to-file="false" />
       <FileType name="XML" />
       <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <method />
     </configuration>
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
@@ -340,13 +339,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_darfts/2013-02-01-outsource-the-other-bits.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="4365">
-          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-05-01-stalking-steve-jobs.md">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-10.8" vertical-offset="0" max-vertical-offset="1526">
@@ -418,8 +410,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2014-05-23-is-your-password-awesome.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.61102235" vertical-offset="0" max-vertical-offset="2152">
-          <caret line="51" column="33" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+        <state vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="2152">
+          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-03-10-php-symfony-syntax-test-checker.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07188498" vertical-offset="0" max-vertical-offset="1342">
+          <caret line="6" column="84" selection-start-line="6" selection-start-column="84" selection-end-line="6" selection-end-column="84" />
           <folding />
         </state>
       </provider>
