@@ -8,6 +8,100 @@
 		
 			
 			<item>
+				<title>Understanding awesome passwords</title>
+				<description>&lt;p&gt;&lt;img src=&quot;/images/2014-05/passwords.png&quot; alt=&quot;Passwords Can Be Tough&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Everyone knows that long random passwords are best, but how random, how long and what about practicality?&lt;/p&gt;
+
+&lt;h2 id=&quot;a-bad-password&quot;&gt;A bad password&lt;/h2&gt;
+
+&lt;p&gt;Let’s start with an example of a &lt;strong&gt;bad&lt;/strong&gt; password: “G3org3.1984”.&lt;/p&gt;
+
+&lt;p&gt;There are many methods hackers use to exploit systems. One of which is the “brute-force attack”, a technique which attempts to discover a users password by trying one variation after another. Each failure triggering another attempt with a new password. You might be thinking, &lt;strong&gt;“my password is awesome, that would take forever”&lt;/strong&gt;. Is it, is it really that awesome?&lt;/p&gt;
+
+&lt;h2 id=&quot;a-closer-look-at-brute-force&quot;&gt;A closer look at “brute-force”&lt;/h2&gt;
+
+&lt;p&gt;Brute force attacks are not actually carried out by a person. Instead a computer is given the task — even if it takes days, months or longer. The time it takes is linked to the strength of your password.&lt;/p&gt;
+
+&lt;p&gt;Lets look at a password example: “J@ck.1984”. A mathematical perspective uses a term “key space” to determine it’s strength. The “key space” for that password would be 85&lt;sup&gt;9&lt;/sup&gt; (depending on the characters used &lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;). That is to say that it would take 85&lt;sup&gt;9&lt;/sup&gt; or less&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; attempts to crack it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;85&lt;sup&gt;9&lt;/sup&gt; = 231,616,950,000,000,000… is a huge number!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;jck1984-is-a-bad-password&quot;&gt;“J@ck.1984” is a BAD password&lt;/h2&gt;
+
+&lt;p&gt;Here’s why. 85&lt;sup&gt;9&lt;/sup&gt; is a big number, but we’re being naive to assume a hacker is going to simply try random character combinations. We’re dealing with people. Creatures of habit that love to give things meaning and have limited memory. A dangerous combination which hackers use to optimise their efforts.&lt;/p&gt;
+
+&lt;p&gt;Think of the complexity reduction if you focus on passwords built on simple proposition:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;password = &quot;&amp;lt;word or name&amp;gt;.&amp;lt;year between 1940 and 2014&amp;gt;”&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Complexity reduction may be further reduced if the persons email address “jack.beanstalk@example.com” was known.&lt;/p&gt;
+
+&lt;h2 id=&quot;an--acronym-solves-all&quot;&gt;An  Acronym Solves All&lt;/h2&gt;
+
+&lt;p&gt;A good password is built on four simple steps:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;C&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Character Rich&lt;/td&gt;
+      &lt;td&gt;Use uppercase, lowercase, numbers and special characters&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;U&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Unique&lt;/td&gt;
+      &lt;td&gt;A fresh password for each credential&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;R&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Random&lt;/td&gt;
+      &lt;td&gt;Avoids words, names and dates&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;L&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Long&lt;/td&gt;
+      &lt;td&gt;15 characters or more&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;“C.U.R.L”,  a recipe for awesome passwords.&lt;/p&gt;
+
+&lt;h2 id=&quot;great-but-we-live-in-the-real-world&quot;&gt;Great, but we live in the real world?&lt;/h2&gt;
+
+&lt;p&gt;No one is expecting you to memorise dozens of long, complicated codes. If you haven’t already – now might be time to move to a dedicated password management program like &lt;a href=&quot;http://www.roboform.com/&quot;&gt;RoboForm&lt;/a&gt;, or &lt;a href=&quot;https://agilebits.com/onepassword&quot;&gt;1Password&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;At the very least, keep the “C.U.R.L” principles in mind when creating your next password. Your credentials are yours and yours alone.&lt;/p&gt;
+
+&lt;h2 id=&quot;further-reading-and-references&quot;&gt;Further Reading and References&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://go.eset.com/us/resources/white-papers/EsetWP-KeepingSecrets20090814.pdf&quot;&gt;Keeping Secrets: Good Password Practice&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.jbonneau.com/doc/BPA12-FC-banking_pin_security.pdf&quot;&gt;A birthday present every eleven wallets?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://gmailblog.blogspot.com.au/2009/10/choosing-smart-password.html&quot;&gt;Choosing a smart password&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://xato.net/passwords/more-top-worst-passwords/#more-269&quot;&gt;10,000 Top Passwords&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;85 being the number of uppercase, lowercase and special characters, 9 being the length of password. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;On average it takes half the “key space” to solve. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+				<pubDate>Fri, 23 May 2014 00:00:00 +1000</pubDate>
+				<link>/2014/05/23/is-your-password-awesome</link>
+				<guid isPermaLink="true">/2014/05/23/is-your-password-awesome</guid>
+			</item>
+			
+		
+			
+			<item>
 				<title>Stalking Steve Jobs</title>
 				<description>&lt;p&gt;An audiophile writeup on Wired caught my attention: &lt;a href=&quot;http://www.wired.com/2014/04/steve-jobs-stereo-system/&quot;&gt;We Pieced Together Steve Jobs’ Long-Lost Stereo System&lt;/a&gt;.&lt;/p&gt;
 
@@ -88,12 +182,11 @@
 
 &lt;p&gt;&lt;strong&gt;Please note:&lt;/strong&gt; these commands may need to be adjusted depending on your setup. Also PHP testing server is only available for PHP 5.4.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;curl https://gist.github.com/pierswarmers/4712678/download &amp;gt; app.tar.gz | tar -zx
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-bash&quot; data-lang=&quot;bash&quot;&gt;&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;curl https://gist.github.com/pierswarmers/4712678/download &amp;gt; app.tar.gz &lt;span class=&quot;p&quot;&gt;|&lt;/span&gt; tar -zx
 &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;cd &lt;/span&gt;gist4712678-*
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;curl -s https://getcomposer.org/installer | php
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;curl -s https://getcomposer.org/installer &lt;span class=&quot;p&quot;&gt;|&lt;/span&gt; php
 &lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;php ./composer.phar install
-&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;php -S localhost:8000
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;span class=&quot;nv&quot;&gt;$ &lt;/span&gt;php -S localhost:8000&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 
 &lt;p&gt;Check it out: &lt;a href=&quot;http://localhost:8000/app.php/say/hello/DrupalCon&quot;&gt;http://localhost:8000/app.php/say/hello/DrupalCon&lt;/a&gt;&lt;/p&gt;
 

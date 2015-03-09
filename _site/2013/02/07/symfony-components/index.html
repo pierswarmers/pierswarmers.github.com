@@ -55,12 +55,11 @@
 
 <p><strong>Please note:</strong> these commands may need to be adjusted depending on your setup. Also PHP testing server is only available for PHP 5.4.</p>
 
-<div class="highlight"><pre><code class="bash"><span class="nv">$ </span>curl https://gist.github.com/pierswarmers/4712678/download &gt; app.tar.gz | tar -zx
+<div class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="nv">$ </span>curl https://gist.github.com/pierswarmers/4712678/download &gt; app.tar.gz <span class="p">|</span> tar -zx
 <span class="nv">$ </span><span class="nb">cd </span>gist4712678-*
-<span class="nv">$ </span>curl -s https://getcomposer.org/installer | php
+<span class="nv">$ </span>curl -s https://getcomposer.org/installer <span class="p">|</span> php
 <span class="nv">$ </span>php ./composer.phar install
-<span class="nv">$ </span>php -S localhost:8000
-</code></pre></div>
+<span class="nv">$ </span>php -S localhost:8000</code></pre></div>
 
 <p>Check it out: <a href="http://localhost:8000/app.php/say/hello/DrupalCon">http://localhost:8000/app.php/say/hello/DrupalCon</a></p>
 

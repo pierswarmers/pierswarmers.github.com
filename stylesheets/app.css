@@ -45,6 +45,17 @@ ul#links .github { background: url(../images/blacktocat-16.png) no-repeat 0 50%;
     ul#links a { color: #fff; }
 }
 
+.footnotes:before {
+}
+.footnotes {
+    padding-top: 17px;
+    margin-top: 34px;
+    border-top:  1px solid #e6ebee;
+}
+.footnotes li, .footnotes li p {
+    font-size: 12px;
+}
+
 /* Syntax ----------------------------------------------------------- */
 
 code { font-weight: normal; background: #ecf1f4; }
