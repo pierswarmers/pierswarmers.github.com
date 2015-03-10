@@ -41,6 +41,34 @@ or&lt;br /&gt;
 		
 			
 			<item>
+				<title>Blackfire, PHP Profiling by SensioLabs</title>
+				<description>&lt;p&gt;&lt;a href=&quot;https://blackfire.io&quot;&gt;Blackfire&lt;/a&gt; is a new service by &lt;a href=&quot;http://sensiolabs.com/&quot;&gt;SensioLabs&lt;/a&gt;. It’s a web based utility to help benchmark your PHP 
+applications. I’ve just sat down to give a try and I’m impressed.&lt;/p&gt;
+
+&lt;p&gt;Installation was very simple via a Brew Keg (&lt;code&gt;blackfireio/homebrew-blackfire&lt;/code&gt;) and I tested it with a &lt;a href=&quot;http://symfony.com/&quot;&gt;Symfony Framework&lt;/a&gt;
+application using one of my custom commands.&lt;/p&gt;
+
+&lt;p&gt;The standard interface tracks a single test batch:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/2015-02/blackfire.png&quot;&gt;&lt;img src=&quot;/images/2015-02/blackfire.png&quot; alt=&quot;Blackfire&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You have 10 slots to store test batches. This allows you to compare your benchmarks from one iteration
+to another, as shown below:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/2015-02/blackfire-comparison.png&quot;&gt;&lt;img src=&quot;/images/2015-02/blackfire.png&quot; alt=&quot;Blackfire&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Hat’s off to the interface people - that’s some sweet work.&lt;/p&gt;
+
+&lt;p&gt;Thoughts? A great addition to the toolkit.&lt;/p&gt;
+</description>
+				<pubDate>Tue, 10 Mar 2015 00:00:00 +1100</pubDate>
+				<link>/2015/03/10/blackfire-new-sensiolabs-php-profiler</link>
+				<guid isPermaLink="true">/2015/03/10/blackfire-new-sensiolabs-php-profiler</guid>
+			</item>
+			
+		
+			
+			<item>
 				<title>Understanding awesome passwords</title>
 				<description>&lt;p&gt;&lt;img src=&quot;/images/2014-05/passwords.png&quot; alt=&quot;Passwords Can Be Tough&quot; /&gt;&lt;/p&gt;
 
