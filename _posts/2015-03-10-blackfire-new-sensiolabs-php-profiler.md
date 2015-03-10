@@ -17,7 +17,7 @@ The standard interface tracks a single test batch:
 You have 10 slots to store test batches. This allows you to compare your benchmarks from one iteration
 to another, as shown below:
 
-[![Blackfire](/images/2015-02/blackfire.png)](/images/2015-02/blackfire-comparison.png)
+[![Blackfire](/images/2015-02/blackfire-comparison.png)](/images/2015-02/blackfire-comparison.png)
 
 Hat's off to the interface people - that's some sweet work.
 

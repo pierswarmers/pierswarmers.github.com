@@ -4,7 +4,7 @@
  <title>Piers Warmers</title>
  <link href="http://pierswarmers.com/atom.xml" rel="self"/>
  <link href="http://pierswarmers.com/"/>
- <updated>2015-03-10T11:59:29+11:00</updated>
+ <updated>2015-03-10T12:16:54+11:00</updated>
  <id>http://pierswarmers.com/</id>
  <author>
    <name>Piers Warmers</name>
@@ -22,13 +22,15 @@ quality and consistency. This little script to automates the steps:&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;A PHP compilation check.&lt;/li&gt;
-  &lt;li&gt;A syntax cleanup - &lt;a href=&quot;http://cs.sensiolabs.org/&quot;&gt;Sensio Labs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A syntax cleanup - &lt;a href=&quot;http://cs.sensiolabs.org/&quot;&gt;PHP Coding Standards Fixer&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Run my unit tests - &lt;a href=&quot;https://phpunit.de&quot;&gt;PHPUnit&lt;/a&gt; - with code coverage as an option.&lt;/li&gt;
   &lt;li&gt;Then optionally commit and push changes - only if the above steps passed.&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;It’s simple and I can modify it easily from one project to another. I thought I’d both share it and ask for any tips on
 improvements.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/2015-02/checker.png&quot;&gt;&lt;img src=&quot;/images/2015-02/checker.png&quot; alt=&quot;PHP Symfony Checker&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;here-it-is-checksh&quot;&gt;Here it is: check.sh&lt;/h2&gt;
 
@@ -61,7 +63,7 @@ application using one of my custom commands.&lt;/p&gt;
 &lt;p&gt;You have 10 slots to store test batches. This allows you to compare your benchmarks from one iteration
 to another, as shown below:&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/images/2015-02/blackfire-comparison.png&quot;&gt;&lt;img src=&quot;/images/2015-02/blackfire.png&quot; alt=&quot;Blackfire&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/images/2015-02/blackfire-comparison.png&quot;&gt;&lt;img src=&quot;/images/2015-02/blackfire-comparison.png&quot; alt=&quot;Blackfire&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Hat’s off to the interface people - that’s some sweet work.&lt;/p&gt;
 
