@@ -8,6 +8,39 @@
 		
 			
 			<item>
+				<title>PHP / Symfony Checker</title>
+				<description>&lt;p&gt;Before I commit changes to my PHP / Symfony projects, I like to pre-check it against a few utilities to ensure
+quality and consistency. This little script to automates the steps:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;A PHP compilation check.&lt;/li&gt;
+  &lt;li&gt;A syntax cleanup - &lt;a href=&quot;http://cs.sensiolabs.org/&quot;&gt;Sensio Labs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Run my unit tests - &lt;a href=&quot;https://phpunit.de&quot;&gt;PHPUnit&lt;/a&gt; - with code coverage as an option.&lt;/li&gt;
+  &lt;li&gt;Then optionally commit and push changes - only if the above steps passed.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;It’s simple and I can modify it easily from one project to another. I thought I’d both share it and ask for any tips on
+improvements.&lt;/p&gt;
+
+&lt;h2 id=&quot;here-it-is-checksh&quot;&gt;Here it is: check.sh&lt;/h2&gt;
+
+&lt;p&gt;You can run it via something like:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;./check.sh&lt;/code&gt;&lt;br /&gt;
+or&lt;br /&gt;
+&lt;code&gt;./check.sh -g -b -p -m &quot;Fixed the stuff and things.&quot;&lt;/code&gt;&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/pierswarmers/0c0c5f80d31daa94a461.js&quot;&gt;&lt;/script&gt;
+
+</description>
+				<pubDate>Tue, 10 Mar 2015 00:00:00 +1100</pubDate>
+				<link>/2015/03/10/php-symfony-syntax-test-checker</link>
+				<guid isPermaLink="true">/2015/03/10/php-symfony-syntax-test-checker</guid>
+			</item>
+			
+		
+			
+			<item>
 				<title>Understanding awesome passwords</title>
 				<description>&lt;p&gt;&lt;img src=&quot;/images/2014-05/passwords.png&quot; alt=&quot;Passwords Can Be Tough&quot; /&gt;&lt;/p&gt;
 
