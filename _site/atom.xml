@@ -4,7 +4,7 @@
  <title>Piers Warmers</title>
  <link href="http://pierswarmers.com/atom.xml" rel="self"/>
  <link href="http://pierswarmers.com/"/>
- <updated>2015-03-10T12:31:18+11:00</updated>
+ <updated>2015-03-10T17:21:55+11:00</updated>
  <id>http://pierswarmers.com/</id>
  <author>
    <name>Piers Warmers</name>
@@ -51,7 +51,7 @@ or&lt;br /&gt;
    <updated>2015-03-10T00:00:00+11:00</updated>
    <id>http://pierswarmers.com/2015/03/10/blackfire-new-sensiolabs-php-profiler</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;https://blackfire.io&quot;&gt;Blackfire&lt;/a&gt; is a new service by &lt;a href=&quot;http://sensiolabs.com/&quot;&gt;SensioLabs&lt;/a&gt;. It’s a web based utility to help benchmark your PHP 
-applications. I’ve just sat down to give a try and I’m impressed.&lt;/p&gt;
+applications. I’ve just sat down to give it a try. I’m blown away!&lt;/p&gt;
 
 &lt;p&gt;Installation was very simple via a Brew Keg (&lt;code&gt;blackfireio/homebrew-blackfire&lt;/code&gt;) and I tested it with a &lt;a href=&quot;http://symfony.com/&quot;&gt;Symfony Framework&lt;/a&gt;
 application using one of my custom commands.&lt;/p&gt;
@@ -67,7 +67,9 @@ to another, as shown below:&lt;/p&gt;
 
 &lt;p&gt;Hat’s off to the interface people - that’s some sweet work.&lt;/p&gt;
 
-&lt;p&gt;Thoughts? A great addition to the toolkit.&lt;/p&gt;
+&lt;p&gt;A incredible addition to the toolkit.&lt;/p&gt;
+
+&lt;p&gt;Also, take a look at this simple &lt;a href=&quot;http://tech.enekochan.com/en/2015/03/06/disable-xdebug-temporary-while-using-blackfireio/&quot;&gt;toggle for XDebug&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
