@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecef5b9e-bd75-42ec-b585-ec8a9afd873a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/2015-02/checker.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-03-10-blackfire-new-sensiolabs-php-profiler.md" afterPath="$PROJECT_DIR$/_posts/2015-03-10-blackfire-new-sensiolabs-php-profiler.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-03-10-php-symfony-syntax-test-checker.md" afterPath="$PROJECT_DIR$/_posts/2015-03-10-php-symfony-syntax-test-checker.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/stylesheets/app.css" afterPath="$PROJECT_DIR$/_site/stylesheets/app.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/app.css" afterPath="$PROJECT_DIR$/stylesheets/app.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/atom.xml" afterPath="$PROJECT_DIR$/_site/atom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/rss.xml" afterPath="$PROJECT_DIR$/_site/rss.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="pierswarmers.com.iws" />
@@ -32,6 +30,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stylesheets/app.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.2029826" vertical-offset="55" max-vertical-offset="2572">
+              <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="2015-03-10-blackfire-new-sensiolabs-php-profiler.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-03-10-blackfire-new-sensiolabs-php-profiler.md">
           <provider selected="true" editor-type-id="text-editor">
@@ -45,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-03-10-php-symfony-syntax-test-checker.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2015-03-10-php-symfony-syntax-test-checker.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-03-10-php-symfony-syntax-test-checker.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12048193" vertical-offset="0" max-vertical-offset="1650">
-              <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+            <state vertical-scroll-proportion="-14.0" vertical-offset="0" max-vertical-offset="1650">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -80,6 +88,7 @@
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_posts/2015-03-10-blackfire-new-sensiolabs-php-profiler.md" />
         <option value="$PROJECT_DIR$/_posts/2015-03-10-php-symfony-syntax-test-checker.md" />
+        <option value="$PROJECT_DIR$/stylesheets/app.css" />
       </list>
     </option>
   </component>
@@ -433,14 +442,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/app.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24326466" vertical-offset="443" max-vertical-offset="2552">
-          <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/2015-02/blackfire-comparison.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -464,13 +465,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-03-10-php-symfony-syntax-test-checker.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12048193" vertical-offset="0" max-vertical-offset="1650">
-          <caret line="10" column="49" selection-start-line="10" selection-start-column="49" selection-end-line="10" selection-end-column="49" />
+        <state vertical-scroll-proportion="-14.0" vertical-offset="0" max-vertical-offset="1650">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
       <provider editor-type-id="MarkdownPreviewEditor">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2029826" vertical-offset="55" max-vertical-offset="2572">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>

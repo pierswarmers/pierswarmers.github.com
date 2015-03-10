@@ -16,6 +16,11 @@ a { color: #fa531c; }
 .anchor_link { color: #fff; }
 a:hover { color: #c64216; }
 h1 a:hover, h2 a:hover, h3 a:hover { color: #fa531c; }
+img, a img {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
 
 /* Layout ----------------------------------------------------------- */
 
