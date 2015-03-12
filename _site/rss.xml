@@ -8,6 +8,36 @@
 		
 			
 			<item>
+				<title>PHP7 and Symfony Performance</title>
+				<description>&lt;p&gt;I missed the talk but these slides – &lt;a href=&quot;http://talks.php.net/oz15#/perf2014&quot;&gt;PHP by Rasmus Lerdorf&lt;/a&gt; – inspired me to 
+take a look for myself.&lt;/p&gt;
+
+&lt;p&gt;So I thought I’d run a very quick test to see how a fresh Symfony Framework 2.6.4 install performed on in comparison 
+testing against PHP 5.6.6-dev vs PHP 7.0.0-dev.&lt;/p&gt;
+
+&lt;p&gt;I’m using a &lt;a href=&quot;https://github.com/rlerdorf/php7dev&quot;&gt;Rasmus’ Vagrant configuration&lt;/a&gt; and Apache Benchmark to 
+target the demonstration “Hello World” script shipped with Symfony – and enabled on production.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-results&quot;&gt;The Results&lt;/h2&gt;
+
+&lt;p&gt;I ran 600 hits with a concurrency of 100 and found that the mean for each was:&lt;/p&gt;
+
+&lt;p&gt;PHP 5.6.6-dev = 220.55 req/sec&lt;br /&gt;
+PHP 7.0.0-dev = 341.77 req/sec&lt;/p&gt;
+
+&lt;p&gt;That’s a pretty impressive performance boost.&lt;/p&gt;
+
+&lt;p&gt;I’d love to see a &lt;a href=&quot;https://blackfire.io/&quot;&gt;Blackfire&lt;/a&gt; probe for compatible with PHP7. That will make it much simpler
+to see where the performance gains are.&lt;/p&gt;
+</description>
+				<pubDate>Thu, 12 Mar 2015 00:00:00 +1100</pubDate>
+				<link>/2015/03/12/php7-and-symfony-performance</link>
+				<guid isPermaLink="true">/2015/03/12/php7-and-symfony-performance</guid>
+			</item>
+			
+		
+			
+			<item>
 				<title>PHP / Symfony Checker</title>
 				<description>&lt;p&gt;Before I commit changes to my PHP / Symfony projects, I like to pre-check it against a few utilities to ensure
 quality and consistency. This little script to automates the steps:&lt;/p&gt;
