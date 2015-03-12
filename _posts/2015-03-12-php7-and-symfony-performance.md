@@ -23,5 +23,4 @@ PHP 7.0.0-dev = 341.77 req/sec
 
 That's a pretty impressive performance boost.
 
-I'd love to see a [Blackfire](https://blackfire.io/) probe for compatible with PHP7. That will make it much simpler
-to see where the performance gains are.
+I'd love to see a [Blackfire](https://blackfire.io/) probe compatible with PHP7 to see where the performance gains are.

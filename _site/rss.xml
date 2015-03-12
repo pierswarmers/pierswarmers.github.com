@@ -27,8 +27,7 @@ PHP 7.0.0-dev = 341.77 req/sec&lt;/p&gt;
 
 &lt;p&gt;That’s a pretty impressive performance boost.&lt;/p&gt;
 
-&lt;p&gt;I’d love to see a &lt;a href=&quot;https://blackfire.io/&quot;&gt;Blackfire&lt;/a&gt; probe for compatible with PHP7. That will make it much simpler
-to see where the performance gains are.&lt;/p&gt;
+&lt;p&gt;I’d love to see a &lt;a href=&quot;https://blackfire.io/&quot;&gt;Blackfire&lt;/a&gt; probe compatible with PHP7 to see where the performance gains are.&lt;/p&gt;
 </description>
 				<pubDate>Thu, 12 Mar 2015 00:00:00 +1100</pubDate>
 				<link>/2015/03/12/php7-and-symfony-performance</link>
