@@ -8,6 +8,25 @@
 		
 			
 			<item>
+				<title>PHP Date Rules Utility</title>
+				<description>&lt;p&gt;Just threw up a small toolkit (&lt;a href=&quot;https://github.com/pierswarmers/ManDate&quot;&gt;ManDate&lt;/a&gt;) for working with date rules.&lt;/p&gt;
+
+&lt;p&gt;It even lets you write rules which take into account sunrise and sunset.&lt;/p&gt;
+
+&lt;p&gt;For example:&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/pierswarmers/60f52ae03bce5bbbf43c.js&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Enjoy!&lt;/p&gt;
+</description>
+				<pubDate>Fri, 13 Mar 2015 00:00:00 +1100</pubDate>
+				<link>/2015/03/13/simple-php-date-rules-toolkit</link>
+				<guid isPermaLink="true">/2015/03/13/simple-php-date-rules-toolkit</guid>
+			</item>
+			
+		
+			
+			<item>
 				<title>PHP7 and Symfony Performance</title>
 				<description>&lt;p&gt;I missed the talk but these slides – &lt;a href=&quot;http://talks.php.net/oz15#/perf2014&quot;&gt;PHP by Rasmus Lerdorf&lt;/a&gt; – inspired me to 
 take a look for myself.&lt;/p&gt;
